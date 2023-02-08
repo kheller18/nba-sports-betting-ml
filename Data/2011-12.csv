@@ -1,0 +1,1075 @@
+﻿,Date,Home,Away,OU,Spread,ML_Home,ML_Away,Points,Win_Margin
+0,2011-12-1225,New York Knicks,Boston Celtics,195.5,5,-210,185,210,2
+1,2011-12-1225,Dallas Mavericks,Miami Heat,190.5,3.5,185,-210,199,-11
+2,2011-12-1225,Los Angeles Lakers,Chicago Bulls,186,1.5,205,-245,175,-1
+3,2011-12-1225,Oklahoma City Thunder,Orlando Magic,197,7.5,-380,310,186,8
+4,2011-12-1225,Golden State Warriors,Los Angeles Clippers,212,4,175,-200,191,-19
+5,2011-12-1226,Washington Wizards,New Jersey Nets,191.5,4.5,-165,145,174,-6
+6,2011-12-1226,Charlotte Bobcats,Milwaukee Bucks,180.5,0,155,-175,191,1
+7,2011-12-1226,Orlando Magic,Houston Rockets,201,5.5,-265,225,199,9
+8,2011-12-1226,Cleveland Cavaliers,Toronto Raptors,198.5,3.5,-130,110,200,-8
+9,2011-12-1226,Indiana Pacers,Detroit Pistons,198,7,-400,325,170,12
+10,2011-12-1226,Minnesota Timberwolves,Oklahoma City Thunder,209,6,190,-230,204,-4
+11,2011-12-1226,Dallas Mavericks,Denver Nuggets,202.5,5,-200,170,208,-22
+12,2011-12-1226,San Antonio Spurs,Memphis Grizzlies,196,5.5,-210,175,177,13
+13,2011-12-1226,Phoenix Suns,New Orleans Pelicans,195,7,-260,220,169,-1
+14,2011-12-1226,Sacramento Kings,Los Angeles Lakers,200,3.5,125,-145,191,9
+15,2011-12-1226,Portland Trail Blazers,Philadelphia 76ers,189,4.5,-200,170,210,4
+16,2011-12-1226,Golden State Warriors,Chicago Bulls,197,5.5,250,-300,190,8
+17,2011-12-1227,New Jersey Nets,Atlanta Hawks,184,5,155,-175,176,-36
+18,2011-12-1227,Miami Heat,Boston Celtics,187,11,-600,450,222,8
+19,2011-12-1227,Milwaukee Bucks,Minnesota Timberwolves,192,6,-240,200,193,3
+20,2011-12-1227,Portland Trail Blazers,Sacramento Kings,196,8,-450,350,180,22
+21,2011-12-1227,Los Angeles Lakers,Utah Jazz,188.5,6,-240,200,167,25
+22,2011-12-1228,Toronto Raptors,Indiana Pacers,195,2.5,155,-175,175,-5
+23,2011-12-1228,Charlotte Bobcats,Miami Heat,185,11,600,-800,191,-1
+24,2011-12-1228,Atlanta Hawks,Washington Wizards,186,9.5,-475,375,184,18
+25,2011-12-1228,Detroit Pistons,Cleveland Cavaliers,191,6,-235,195,194,-16
+26,2011-12-1228,New Orleans Pelicans,Boston Celtics,175.5,1.5,170,-200,175,19
+27,2011-12-1228,Memphis Grizzlies,Oklahoma City Thunder,195,1,100,-120,193,-3
+28,2011-12-1228,San Antonio Spurs,Los Angeles Clippers,196,4,-200,170,205,25
+29,2011-12-1228,Denver Nuggets,Utah Jazz,203,9,-1200,700,217,17
+30,2011-12-1228,Phoenix Suns,Philadelphia 76ers,199,0,105,-125,186,-20
+31,2011-12-1228,Golden State Warriors,New York Knicks,204,2.5,220,-260,170,14
+32,2011-12-1229,Orlando Magic,New Jersey Nets,182,12,-800,600,172,16
+33,2011-12-1229,Houston Rockets,San Antonio Spurs,197,1,135,-155,190,20
+34,2011-12-1229,Oklahoma City Thunder,Dallas Mavericks,196.5,7.5,-230,190,206,2
+35,2011-12-1229,Portland Trail Blazers,Denver Nuggets,199,5,-240,200,213,9
+36,2011-12-1229,Sacramento Kings,Chicago Bulls,186.5,8,310,-380,206,-10
+37,2011-12-1229,Los Angeles Lakers,New York Knicks,199,4.5,-170,150,181,17
+38,2011-12-1230,Charlotte Bobcats,Orlando Magic,186.5,5.5,155,-175,179,-21
+39,2011-12-1230,Indiana Pacers,Cleveland Cavaliers,187,9.5,-550,425,189,7
+40,2011-12-1230,Boston Celtics,Detroit Pistons,184,10.5,-700,500,181,11
+41,2011-12-1230,Atlanta Hawks,New Jersey Nets,175.5,11.5,-1000,700,203,7
+42,2011-12-1230,Minnesota Timberwolves,Miami Heat,204.5,9,350,-450,204,-2
+43,2011-12-1230,Memphis Grizzlies,Houston Rockets,194,5,-270,230,206,20
+44,2011-12-1230,New Orleans Pelicans,Phoenix Suns,187.5,3,-140,120,171,-15
+45,2011-12-1230,Dallas Mavericks,Toronto Raptors,196,9.5,-450,350,185,13
+46,2011-12-1230,Milwaukee Bucks,Washington Wizards,183.5,9,-460,360,183,21
+47,2011-12-1230,Utah Jazz,Philadelphia 76ers,192.5,4,170,-200,201,3
+48,2011-12-1230,Los Angeles Clippers,Chicago Bulls,189.5,1,-105,-115,215,-13
+49,2011-12-1231,Los Angeles Lakers,Denver Nuggets,200,5.5,-220,180,181,3
+50,2011-12-1231,Detroit Pistons,Indiana Pacers,183,3.5,120,-140,184,8
+51,2011-12-1231,Houston Rockets,Atlanta Hawks,188,1,-120,100,179,11
+52,2011-12-1231,Sacramento Kings,New York Knicks,198.5,1.5,-105,-115,206,-22
+53,2011-12-1231,Oklahoma City Thunder,Phoenix Suns,198.5,13,-900,650,204,10
+54,2011-12-1231,San Antonio Spurs,Utah Jazz,196,14,-1500,1000,193,15
+55,2011-12-1231,Golden State Warriors,Philadelphia 76ers,191,1.5,110,-130,186,-28
+56,2011-12-0101,Washington Wizards,Boston Celtics,184.5,7,240,-280,180,-8
+57,2011-12-0101,Cleveland Cavaliers,New Jersey Nets,186,4.5,-135,115,180,16
+58,2011-12-0101,Orlando Magic,Toronto Raptors,186.5,12,-1100,750,198,6
+59,2011-12-0101,Miami Heat,Charlotte Bobcats,194,15,-2000,1200,219,39
+60,2011-12-0101,Minnesota Timberwolves,Dallas Mavericks,204,3.5,120,-140,181,17
+61,2011-12-0101,Chicago Bulls,Memphis Grizzlies,189,8,-280,240,168,40
+62,2011-12-0101,Denver Nuggets,Los Angeles Lakers,199,3,-225,185,189,9
+63,2011-12-0101,Sacramento Kings,New Orleans Pelicans,182.5,3.5,-175,155,176,16
+64,2011-12-0101,Los Angeles Clippers,Portland Trail Blazers,201,3.5,-155,135,181,5
+65,2011-12-0102,Phoenix Suns,Golden State Warriors,192,4,-180,160,193,11
+66,2011-12-0102,New York Knicks,Toronto Raptors,197,8,-400,325,175,-5
+67,2011-12-0102,Miami Heat,Atlanta Hawks,195,8,-650,500,192,-8
+68,2011-12-0102,New Jersey Nets,Indiana Pacers,180,4.5,210,-250,202,-14
+69,2011-12-0102,Boston Celtics,Washington Wizards,185,12.5,-800,600,192,8
+70,2011-12-0102,Detroit Pistons,Orlando Magic,182,3.5,175,-210,167,11
+71,2011-12-0102,Minnesota Timberwolves,San Antonio Spurs,200,5,180,-220,202,10
+72,2011-12-0102,Dallas Mavericks,Oklahoma City Thunder,199.5,1,125,-145,187,13
+73,2011-12-0102,Denver Nuggets,Milwaukee Bucks,201,6,-200,170,177,5
+74,2011-12-0102,Utah Jazz,New Orleans Pelicans,181,5.5,-280,240,184,4
+75,2011-12-0103,Cleveland Cavaliers,Charlotte Bobcats,187,5,-170,150,216,14
+76,2011-12-0103,Oklahoma City Thunder,Portland Trail Blazers,198,5.5,-200,170,196,-10
+77,2011-12-0103,Memphis Grizzlies,Sacramento Kings,187.5,8.5,-260,220,209,17
+78,2011-12-0103,Chicago Bulls,Atlanta Hawks,185,10,-600,450,150,2
+79,2011-12-0103,Utah Jazz,Milwaukee Bucks,191,1.5,-120,100,158,12
+80,2011-12-0103,Los Angeles Lakers,Houston Rockets,192,7,-340,280,207,9
+81,2011-12-0104,Toronto Raptors,Cleveland Cavaliers,190,5,-220,180,169,15
+82,2011-12-0104,Orlando Magic,Washington Wizards,188.5,13.5,-1400,900,188,18
+83,2011-12-0104,Boston Celtics,New Jersey Nets,181,12,-1400,900,159,19
+84,2011-12-0104,Miami Heat,Indiana Pacers,195,10,-360,300,201,35
+85,2011-12-0104,Detroit Pistons,Chicago Bulls,183,6,240,-280,182,-16
+86,2011-12-0104,New York Knicks,Charlotte Bobcats,193,13,-800,600,228,-8
+87,2011-12-0104,Minnesota Timberwolves,Memphis Grizzlies,196,2.5,-200,170,176,-4
+88,2011-12-0104,New Orleans Pelicans,Philadelphia 76ers,182,3.5,190,-230,194,-8
+89,2011-12-0104,San Antonio Spurs,Golden State Warriors,191,8,-350,290,196,6
+90,2011-12-0104,Dallas Mavericks,Phoenix Suns,194,8.5,-350,290,187,9
+91,2011-12-0104,Denver Nuggets,Sacramento Kings,198,10,-900,650,193,27
+92,2011-12-0104,Los Angeles Clippers,Houston Rockets,200,5.5,-320,260,206,28
+93,2011-12-0105,Atlanta Hawks,Miami Heat,189,3,-185,165,225,-7
+94,2011-12-0105,San Antonio Spurs,Dallas Mavericks,192.5,3,-135,115,164,22
+95,2011-12-0105,Sacramento Kings,Milwaukee Bucks,189,3,135,-155,203,3
+96,2011-12-0105,Portland Trail Blazers,Los Angeles Lakers,189.5,3.5,-165,145,203,11
+97,2011-12-0106,Charlotte Bobcats,Atlanta Hawks,188.5,3.5,105,-125,198,-6
+98,2011-12-0106,Philadelphia 76ers,Detroit Pistons,185.5,8.5,-625,475,169,23
+99,2011-12-0106,Toronto Raptors,New Jersey Nets,183.5,6.5,-270,230,182,-12
+100,2011-12-0106,Washington Wizards,New York Knicks,197.5,7,220,-260,195,-3
+101,2011-12-0106,Boston Celtics,Indiana Pacers,184.5,6,-260,220,161,-13
+102,2011-12-0106,Orlando Magic,Chicago Bulls,181,2,110,-130,180,-14
+103,2011-12-0106,Oklahoma City Thunder,Houston Rockets,204,9,-750,550,203,15
+104,2011-12-0106,Minnesota Timberwolves,Cleveland Cavaliers,197,7,-300,250,185,-11
+105,2011-12-0106,New Orleans Pelicans,Denver Nuggets,190.5,5.5,230,-270,184,-8
+106,2011-12-0106,Utah Jazz,Memphis Grizzlies,186.5,0,100,-120,179,9
+107,2011-12-0106,Phoenix Suns,Portland Trail Blazers,192.5,2,115,-135,179,25
+108,2011-12-0106,Los Angeles Lakers,Golden State Warriors,188.5,10.5,-700,500,187,7
+109,2011-12-0107,Indiana Pacers,Charlotte Bobcats,190,9.5,-600,450,176,22
+110,2011-12-0107,Atlanta Hawks,Chicago Bulls,177,3,220,-260,203,15
+111,2011-12-0107,Detroit Pistons,New York Knicks,193,4,165,-185,183,-23
+112,2011-12-0107,New Jersey Nets,Miami Heat,187,5.5,350,-450,191,-11
+113,2011-12-0107,Philadelphia 76ers,Toronto Raptors,188,10,-625,475,159,35
+114,2011-12-0107,Houston Rockets,Oklahoma City Thunder,202.5,5,200,-240,193,-3
+115,2011-12-0107,San Antonio Spurs,Denver Nuggets,195.5,3,-185,165,238,4
+116,2011-12-0107,Dallas Mavericks,New Orleans Pelicans,180,10,-1000,700,177,15
+117,2011-12-0107,Los Angeles Clippers,Milwaukee Bucks,194,9,-650,500,178,6
+118,2011-12-0107,Golden State Warriors,Utah Jazz,186,3.5,-160,140,175,-1
+119,2011-12-0108,Washington Wizards,Minnesota Timberwolves,195,2,125,-145,165,-21
+120,2011-12-0108,Sacramento Kings,Orlando Magic,189.5,6.5,250,-300,201,-7
+121,2011-12-0108,Oklahoma City Thunder,San Antonio Spurs,195,6,-280,240,204,12
+122,2011-12-0108,Phoenix Suns,Milwaukee Bucks,187.5,8,-350,290,202,16
+123,2011-12-0108,Portland Trail Blazers,Cleveland Cavaliers,196,10.5,-700,500,176,20
+124,2011-12-0108,Los Angeles Lakers,Memphis Grizzlies,184.5,7.5,-320,260,172,8
+125,2011-12-0109,Toronto Raptors,Minnesota Timberwolves,190,3.5,-155,135,184,10
+126,2011-12-0109,Philadelphia 76ers,Indiana Pacers,183.5,4.5,-305,245,182,10
+127,2011-12-0109,New Jersey Nets,Atlanta Hawks,178.5,6,190,-240,207,-5
+128,2011-12-0109,New York Knicks,Charlotte Bobcats,203.5,11.5,-735,510,178,4
+129,2011-12-0109,Chicago Bulls,Detroit Pistons,177.5,13.5,-1905,1205,160,24
+130,2011-12-0109,Denver Nuggets,New Orleans Pelicans,191.5,13,-1340,890,175,-13
+131,2011-12-0110,Charlotte Bobcats,Houston Rockets,194,3,135,-155,152,-12
+132,2011-12-0110,Washington Wizards,Toronto Raptors,186,1,-140,120,171,15
+133,2011-12-0110,Philadelphia 76ers,Sacramento Kings,197,10,-550,425,197,27
+134,2011-12-0110,Detroit Pistons,Dallas Mavericks,182,5,255,-315,186,-14
+135,2011-12-0110,Milwaukee Bucks,San Antonio Spurs,189,3,110,-130,209,3
+136,2011-12-0110,Memphis Grizzlies,Oklahoma City Thunder,193,3.5,115,-135,195,-5
+137,2011-12-0110,Minnesota Timberwolves,Chicago Bulls,186,7,240,-300,211,-11
+138,2011-12-0110,Utah Jazz,Cleveland Cavaliers,188,5,-275,225,218,8
+139,2011-12-0110,Portland Trail Blazers,Los Angeles Clippers,194,4.5,-250,200,202,8
+140,2011-12-0110,Los Angeles Lakers,Phoenix Suns,187.5,8.5,-375,305,182,16
+141,2011-12-0110,Golden State Warriors,Miami Heat,196,8,450,-610,217,5
+142,2011-12-0111,Indiana Pacers,Atlanta Hawks,182.5,3.5,-145,125,180,12
+143,2011-12-0111,Toronto Raptors,Sacramento Kings,190.5,4,-245,195,189,-7
+144,2011-12-0111,New York Knicks,Philadelphia 76ers,196.5,5,-175,155,164,6
+145,2011-12-0111,Chicago Bulls,Washington Wizards,181,13.5,-940,640,142,14
+146,2011-12-0111,New Orleans Pelicans,Oklahoma City Thunder,187,8.5,235,-295,180,-10
+147,2011-12-0111,Boston Celtics,Dallas Mavericks,185,5.5,-205,165,175,-5
+148,2011-12-0111,San Antonio Spurs,Houston Rockets,197.5,7,-305,245,196,6
+149,2011-12-0111,Denver Nuggets,New Jersey Nets,195,12.5,-1145,745,238,8
+150,2011-12-0111,Utah Jazz,Los Angeles Lakers,186,2,105,-125,177,-3
+151,2011-12-0111,Portland Trail Blazers,Orlando Magic,190,4,-150,130,211,-3
+152,2011-12-0111,Los Angeles Clippers,Miami Heat,202.5,4,135,-155,184,6
+153,2011-12-0112,Atlanta Hawks,Charlotte Bobcats,184,10.5,-380,310,192,30
+154,2011-12-0112,Milwaukee Bucks,Detroit Pistons,178.5,8.5,-400,325,195,9
+155,2011-12-0112,Memphis Grizzlies,New York Knicks,194,2.5,-200,170,177,11
+156,2011-12-0112,Phoenix Suns,Cleveland Cavaliers,194,7.5,-320,260,191,-11
+157,2011-12-0112,Golden State Warriors,Orlando Magic,185.5,4,145,-165,226,-8
+158,2011-12-0113,Charlotte Bobcats,Detroit Pistons,176.5,4,-160,140,179,-17
+159,2011-12-0113,Toronto Raptors,Indiana Pacers,178,5.5,210,-250,185,-5
+160,2011-12-0113,Philadelphia 76ers,Washington Wizards,185.5,12.5,-1500,1000,209,31
+161,2011-12-0113,Boston Celtics,Chicago Bulls,177,1.5,110,-130,167,-9
+162,2011-12-0113,Houston Rockets,Sacramento Kings,198,8,-400,320,192,14
+163,2011-12-0113,New Orleans Pelicans,Minnesota Timberwolves,181,1,102,-113,167,-7
+164,2011-12-0113,San Antonio Spurs,Portland Trail Blazers,195,2,-116,105,182,16
+165,2011-12-0113,Dallas Mavericks,Milwaukee Bucks,184,9,-530,415,178,26
+166,2011-12-0113,Phoenix Suns,New Jersey Nets,197.5,7,-230,190,213,-7
+167,2011-12-0113,Denver Nuggets,Miami Heat,210,3.5,145,-165,221,13
+168,2011-12-0113,Los Angeles Lakers,Cleveland Cavaliers,187.5,10.5,-770,570,189,5
+169,2011-12-0114,Indiana Pacers,Boston Celtics,180,3.5,-165,145,180,14
+170,2011-12-0114,Washington Wizards,Philadelphia 76ers,184,8,305,-370,193,-13
+171,2011-12-0114,Atlanta Hawks,Minnesota Timberwolves,189,7.5,-330,270,184,2
+172,2011-12-0114,Charlotte Bobcats,Golden State Warriors,188.5,2.5,145,-165,212,12
+173,2011-12-0114,Houston Rockets,Portland Trail Blazers,196,2,-110,100,212,2
+174,2011-12-0114,Oklahoma City Thunder,New York Knicks,193.5,11.5,-800,600,196,12
+175,2011-12-0114,Memphis Grizzlies,New Orleans Pelicans,177,11,-780,580,207,9
+176,2011-12-0114,Chicago Bulls,Toronto Raptors,177,13,-2000,1200,141,13
+177,2011-12-0114,Utah Jazz,New Jersey Nets,187.5,9,-400,320,201,13
+178,2011-12-0114,Dallas Mavericks,Sacramento Kings,191.5,12,-900,650,159,39
+179,2011-12-0114,Los Angeles Clippers,Los Angeles Lakers,187.5,2.5,-135,115,196,8
+180,2011-12-0115,Detroit Pistons,Golden State Warriors,184,4,-180,155,190,-8
+181,2011-12-0115,Denver Nuggets,Utah Jazz,203,10,-725,500,202,-10
+182,2011-12-0115,San Antonio Spurs,Phoenix Suns,197.5,7.5,-455,355,193,11
+183,2011-12-0116,New York Knicks,Orlando Magic,192,0,105,-125,195,-9
+184,2011-12-0116,Memphis Grizzlies,Chicago Bulls,178.5,5,110,-130,188,16
+185,2011-12-0116,Philadelphia 76ers,Milwaukee Bucks,189,8.5,-455,355,176,12
+186,2011-12-0116,Washington Wizards,Houston Rockets,190.5,5.5,195,-245,220,-8
+187,2011-12-0116,Charlotte Bobcats,Cleveland Cavaliers,194.5,2.5,-115,-105,196,-8
+188,2011-12-0116,New Orleans Pelicans,Portland Trail Blazers,182.5,6,200,-250,161,-7
+189,2011-12-0116,Los Angeles Clippers,New Jersey Nets,195,9.5,-340,270,192,10
+190,2011-12-0116,Atlanta Hawks,Toronto Raptors,178.5,11,-655,465,177,9
+191,2011-12-0116,Minnesota Timberwolves,Sacramento Kings,192,7,-320,260,185,13
+192,2011-12-0116,Boston Celtics,Oklahoma City Thunder,188,2,125,-145,185,-9
+193,2011-12-0116,Los Angeles Lakers,Dallas Mavericks,181.5,4,-185,165,143,3
+194,2011-12-0117,Orlando Magic,Charlotte Bobcats,192,12,-1000,700,185,7
+195,2011-12-0117,Cleveland Cavaliers,Golden State Warriors,197.5,2.5,-130,110,200,-10
+196,2011-12-0117,Miami Heat,San Antonio Spurs,202,6,-300,250,218,22
+197,2011-12-0117,Chicago Bulls,Phoenix Suns,183,10,-470,370,215,21
+198,2011-12-0117,Milwaukee Bucks,Denver Nuggets,200.5,3,130,-150,200,-10
+199,2011-12-0117,Houston Rockets,Detroit Pistons,187.5,8,-345,285,177,17
+200,2011-12-0117,Utah Jazz,Los Angeles Clippers,192,2.5,-200,170,187,29
+201,2011-12-0118,Philadelphia 76ers,Denver Nuggets,201,6,-245,195,212,-4
+202,2011-12-0118,Washington Wizards,Oklahoma City Thunder,197.5,11,570,-870,207,3
+203,2011-12-0118,Orlando Magic,San Antonio Spurs,195,5,-190,165,168,-2
+204,2011-12-0118,New York Knicks,Phoenix Suns,195,8,-370,300,179,-3
+205,2011-12-0118,New Jersey Nets,Golden State Warriors,197,2.5,-150,130,207,7
+206,2011-12-0118,Boston Celtics,Toronto Raptors,177,9.5,-530,420,169,23
+207,2011-12-0118,Minnesota Timberwolves,Detroit Pistons,185.5,8.5,-450,350,178,8
+208,2011-12-0118,New Orleans Pelicans,Memphis Grizzlies,176.5,5,155,-175,180,-6
+209,2011-12-0118,Atlanta Hawks,Portland Trail Blazers,186,2,-135,115,181,3
+210,2011-12-0118,Sacramento Kings,Indiana Pacers,188,4,180,-220,180,4
+211,2011-12-0118,Los Angeles Clippers,Dallas Mavericks,182,3,150,-170,180,2
+212,2011-12-0119,Miami Heat,Los Angeles Lakers,191,5.5,-240,200,185,11
+213,2011-12-0119,Houston Rockets,New Orleans Pelicans,185,10.5,-600,450,178,2
+214,2011-12-0119,Utah Jazz,Dallas Mavericks,184,1.5,-155,135,185,-3
+215,2011-12-0120,Toronto Raptors,Portland Trail Blazers,180,7,275,-345,178,-10
+216,2011-12-0120,Washington Wizards,Denver Nuggets,203,7.5,260,-320,212,-4
+217,2011-12-0120,Philadelphia 76ers,Atlanta Hawks,184,6,-305,245,166,14
+218,2011-12-0120,New York Knicks,Milwaukee Bucks,190,6.5,-205,175,186,-14
+219,2011-12-0120,Cleveland Cavaliers,Chicago Bulls,185,4.5,170,-200,189,-39
+220,2011-12-0120,Detroit Pistons,Memphis Grizzlies,180,3.5,175,-215,179,-17
+221,2011-12-0120,Boston Celtics,Phoenix Suns,183,6,-295,235,150,-8
+222,2011-12-0120,Orlando Magic,Los Angeles Lakers,182.5,5,-160,140,172,12
+223,2011-12-0120,San Antonio Spurs,Sacramento Kings,197.5,11.5,-765,515,174,-2
+224,2011-12-0120,Los Angeles Clippers,Minnesota Timberwolves,188,5,-220,180,199,-3
+225,2011-12-0120,Golden State Warriors,Indiana Pacers,188,3,-125,105,185,-3
+226,2011-12-0121,Atlanta Hawks,Cleveland Cavaliers,188.5,8,-335,275,215,27
+227,2011-12-0121,Miami Heat,Philadelphia 76ers,195,7.5,-325,265,205,21
+228,2011-12-0121,Detroit Pistons,Portland Trail Blazers,183.5,5.5,250,-300,185,3
+229,2011-12-0121,New York Knicks,Denver Nuggets,206.5,0,120,-140,233,-5
+230,2011-12-0121,Memphis Grizzlies,Sacramento Kings,191.5,9,-500,400,223,33
+231,2011-12-0121,New Orleans Pelicans,Dallas Mavericks,175,5.5,150,-170,164,-2
+232,2011-12-0121,Houston Rockets,San Antonio Spurs,194,2,-210,175,207,3
+233,2011-12-0121,New Jersey Nets,Oklahoma City Thunder,202,9,310,-380,158,-10
+234,2011-12-0121,Chicago Bulls,Charlotte Bobcats,185,11.5,-1500,1000,184,6
+235,2011-12-0121,Utah Jazz,Minnesota Timberwolves,190.5,6,-300,250,206,10
+236,2011-12-0122,Washington Wizards,Boston Celtics,185.5,5,155,-175,194,-6
+237,2011-12-0122,Los Angeles Clippers,Toronto Raptors,184.5,8,-450,350,194,12
+238,2011-12-0122,Miami Heat,Milwaukee Bucks,195.5,10,-525,415,173,-9
+239,2011-12-0122,New Jersey Nets,Charlotte Bobcats,195.5,6,-200,170,184,10
+240,2011-12-0122,Los Angeles Lakers,Indiana Pacers,178,6.5,-235,195,194,-2
+241,2011-12-0123,Philadelphia 76ers,Washington Wizards,192,13.5,-1100,700,186,20
+242,2011-12-0123,Boston Celtics,Orlando Magic,179,4,290,-350,143,31
+243,2011-12-0123,Oklahoma City Thunder,Detroit Pistons,187,13.5,-1600,1000,178,20
+244,2011-12-0123,Chicago Bulls,New Jersey Nets,184,14,-1450,950,205,15
+245,2011-12-0123,Milwaukee Bucks,Atlanta Hawks,183,1,105,-125,189,-5
+246,2011-12-0123,Minnesota Timberwolves,Houston Rockets,194.5,3,-140,120,199,-15
+247,2011-12-0123,New Orleans Pelicans,San Antonio Spurs,177,5,165,-190,206,-2
+248,2011-12-0123,Dallas Mavericks,Phoenix Suns,181,6.5,-210,175,180,6
+249,2011-12-0123,Portland Trail Blazers,Sacramento Kings,192,10.5,-725,525,190,12
+250,2011-12-0123,Golden State Warriors,Memphis Grizzlies,195,1,-135,115,181,-1
+251,2011-12-0124,Charlotte Bobcats,New York Knicks,191,4,195,-235,189,-33
+252,2011-12-0124,Indiana Pacers,Orlando Magic,183,2.5,-160,140,185,-19
+253,2011-12-0124,Miami Heat,Cleveland Cavaliers,201,12,-1650,1050,177,7
+254,2011-12-0124,Phoenix Suns,Toronto Raptors,186,5.5,-240,190,195,-3
+255,2011-12-0124,Portland Trail Blazers,Memphis Grizzlies,189,6,-275,225,181,13
+256,2011-12-0125,Washington Wizards,Charlotte Bobcats,191,5,-340,280,167,17
+257,2011-12-0125,Cleveland Cavaliers,New York Knicks,197.5,1,150,-170,172,10
+258,2011-12-0125,Philadelphia 76ers,New Jersey Nets,194,10.5,-825,625,187,-7
+259,2011-12-0125,Detroit Pistons,Miami Heat,187,8.5,350,-450,199,-3
+260,2011-12-0125,Chicago Bulls,Indiana Pacers,184,8,-400,325,185,-5
+261,2011-12-0125,Oklahoma City Thunder,New Orleans Pelicans,183,13,-1200,750,192,10
+262,2011-12-0125,Houston Rockets,Milwaukee Bucks,190,5,-200,170,204,-6
+263,2011-12-0125,San Antonio Spurs,Atlanta Hawks,188,4,-190,165,188,22
+264,2011-12-0125,Dallas Mavericks,Minnesota Timberwolves,183.5,6,-260,220,195,-15
+265,2011-12-0125,Utah Jazz,Toronto Raptors,186,11,-650,500,217,-5
+266,2011-12-0125,Sacramento Kings,Denver Nuggets,207.5,6.5,240,-280,215,-29
+267,2011-12-0125,Golden State Warriors,Portland Trail Blazers,192.5,3,-170,150,194,8
+268,2011-12-0125,Los Angeles Lakers,Los Angeles Clippers,186,4,-175,155,187,5
+269,2011-12-0126,Orlando Magic,Boston Celtics,176,8,-600,450,174,-8
+270,2011-12-0126,Los Angeles Clippers,Memphis Grizzlies,191.5,3.5,-175,155,189,7
+271,2011-12-0127,Philadelphia 76ers,Charlotte Bobcats,185.5,14.5,-3295,1495,161,17
+272,2011-12-0127,Cleveland Cavaliers,New Jersey Nets,192,3,-175,155,195,-3
+273,2011-12-0127,Boston Celtics,Indiana Pacers,176,1,150,-170,181,7
+274,2011-12-0127,Detroit Pistons,Atlanta Hawks,180.5,5.5,205,-255,208,-6
+275,2011-12-0127,Chicago Bulls,Milwaukee Bucks,182.5,10.5,-770,520,207,7
+276,2011-12-0127,New Orleans Pelicans,Orlando Magic,177,4.5,135,-155,160,26
+277,2011-12-0127,Houston Rockets,Washington Wizards,197.5,10,-475,375,179,27
+278,2011-12-0127,Miami Heat,New York Knicks,199,10,-1045,645,188,10
+279,2011-12-0127,Minnesota Timberwolves,San Antonio Spurs,194.5,0,-105,-115,166,8
+280,2011-12-0127,Dallas Mavericks,Utah Jazz,184,4.5,-185,160,217,15
+281,2011-12-0127,Denver Nuggets,Toronto Raptors,197,12,-1335,885,177,15
+282,2011-12-0127,Portland Trail Blazers,Phoenix Suns,191.5,9,-485,385,180,38
+283,2011-12-0127,Golden State Warriors,Oklahoma City Thunder,198,5.5,175,-200,229,-11
+284,2011-12-0128,Charlotte Bobcats,Washington Wizards,186,1,105,-125,201,-3
+285,2011-12-0128,Philadelphia 76ers,Detroit Pistons,178.5,14.5,-1300,850,169,21
+286,2011-12-0128,Houston Rockets,New York Knicks,193,6.5,-280,240,181,13
+287,2011-12-0128,Milwaukee Bucks,Los Angeles Lakers,182,5,170,-200,189,11
+288,2011-12-0128,Phoenix Suns,Memphis Grizzlies,191.5,2.5,155,-175,170,2
+289,2011-12-0128,Utah Jazz,Sacramento Kings,195.5,9.5,-500,400,189,3
+290,2011-12-0129,Miami Heat,Chicago Bulls,193.5,5,-185,165,190,4
+291,2011-12-0129,New Jersey Nets,Toronto Raptors,184,5.5,-220,180,167,-21
+292,2011-12-0129,Boston Celtics,Cleveland Cavaliers,182,7.5,-320,260,175,-1
+293,2011-12-0129,Orlando Magic,Indiana Pacers,179,3.5,-160,140,191,-21
+294,2011-12-0129,Dallas Mavericks,San Antonio Spurs,187,5,-260,220,201,1
+295,2011-12-0129,Minnesota Timberwolves,Los Angeles Lakers,183,0,-130,110,207,-5
+296,2011-12-0129,New Orleans Pelicans,Atlanta Hawks,175,3.5,115,-135,166,-22
+297,2011-12-0129,Denver Nuggets,Los Angeles Clippers,204,5.5,-240,200,214,-4
+298,2011-12-0130,Washington Wizards,Chicago Bulls,190.5,9,375,-475,186,-10
+299,2011-12-0130,Philadelphia 76ers,Orlando Magic,179.5,5.5,-325,265,143,5
+300,2011-12-0130,Miami Heat,New Orleans Pelicans,186.5,13,-1300,900,204,14
+301,2011-12-0130,Milwaukee Bucks,Detroit Pistons,180,7.5,-340,280,185,21
+302,2011-12-0130,Memphis Grizzlies,San Antonio Spurs,191,4.5,-250,210,156,-10
+303,2011-12-0130,Houston Rockets,Minnesota Timberwolves,196,6.5,-280,240,228,-12
+304,2011-12-0130,Utah Jazz,Portland Trail Blazers,189,3,110,-130,182,4
+305,2011-12-0130,Phoenix Suns,Dallas Mavericks,184,3,180,-220,221,-23
+306,2011-12-0130,Los Angeles Clippers,Oklahoma City Thunder,196,2.5,115,-135,212,12
+307,2011-12-0131,Indiana Pacers,New Jersey Nets,190,9.5,-550,425,205,7
+308,2011-12-0131,Cleveland Cavaliers,Boston Celtics,178,1.5,170,-200,183,-3
+309,2011-12-0131,Toronto Raptors,Atlanta Hawks,176.5,5,200,-240,177,-23
+310,2011-12-0131,New York Knicks,Detroit Pistons,182.5,9,-525,425,199,27
+311,2011-12-0131,Memphis Grizzlies,Denver Nuggets,201,1.5,105,-125,197,3
+312,2011-12-0131,Golden State Warriors,Sacramento Kings,199,8,-320,260,183,3
+313,2011-12-0131,Los Angeles Lakers,Charlotte Bobcats,184,13.5,-1700,1100,179,33
+314,2011-12-0201,Orlando Magic,Washington Wizards,182.5,9.5,-670,470,212,6
+315,2011-12-0201,Philadelphia 76ers,Chicago Bulls,181.5,1.5,100,-120,180,16
+316,2011-12-0201,Boston Celtics,Toronto Raptors,174,9,-480,380,164,36
+317,2011-12-0201,New Jersey Nets,Detroit Pistons,185.5,6.5,-255,205,195,3
+318,2011-12-0201,Minnesota Timberwolves,Indiana Pacers,194.5,2,-160,140,208,-10
+319,2011-12-0201,Milwaukee Bucks,Miami Heat,194.5,6,265,-325,202,8
+320,2011-12-0201,New Orleans Pelicans,Phoenix Suns,182,2,-120,100,223,-17
+321,2011-12-0201,Dallas Mavericks,Oklahoma City Thunder,196,1.5,-105,-115,181,-9
+322,2011-12-0201,San Antonio Spurs,Houston Rockets,196,5,-225,185,190,8
+323,2011-12-0201,Portland Trail Blazers,Charlotte Bobcats,186.5,14,-2180,1380,180,44
+324,2011-12-0201,Utah Jazz,Los Angeles Clippers,193,3.5,115,-135,212,-2
+325,2011-12-0202,Atlanta Hawks,Memphis Grizzlies,182,5,-185,165,173,-19
+326,2011-12-0202,New York Knicks,Chicago Bulls,190,4.5,150,-170,207,-3
+327,2011-12-0202,San Antonio Spurs,New Orleans Pelicans,182,10,-700,500,174,12
+328,2011-12-0202,Sacramento Kings,Portland Trail Blazers,190.5,4,150,-170,187,3
+329,2011-12-0202,Los Angeles Clippers,Denver Nuggets,208,2,-110,-110,203,-21
+330,2011-12-0202,Golden State Warriors,Utah Jazz,193.5,5,-230,190,220,18
+331,2011-12-0203,Philadelphia 76ers,Miami Heat,192,2.5,110,-130,178,-20
+332,2011-12-0203,Toronto Raptors,Washington Wizards,182,4,-200,170,195,17
+333,2011-12-0203,Orlando Magic,Cleveland Cavaliers,183,7.5,-320,260,196,8
+334,2011-12-0203,Detroit Pistons,Milwaukee Bucks,184,3.5,170,-200,168,8
+335,2011-12-0203,New Jersey Nets,Minnesota Timberwolves,195.5,2.5,165,-190,213,-3
+336,2011-12-0203,Oklahoma City Thunder,Memphis Grizzlies,192.5,9,-450,350,195,7
+337,2011-12-0203,Boston Celtics,New York Knicks,181.5,7,-290,245,180,2
+338,2011-12-0203,Houston Rockets,Phoenix Suns,197,7,-300,250,180,18
+339,2011-12-0203,Dallas Mavericks,Indiana Pacers,188,5,-200,170,185,-11
+340,2011-12-0203,Denver Nuggets,Los Angeles Lakers,197.5,4,-160,140,182,-4
+341,2011-12-0204,Indiana Pacers,Orlando Magic,186.5,5.5,-220,180,166,-4
+342,2011-12-0204,Atlanta Hawks,Philadelphia 76ers,180.5,3.5,-160,140,185,-11
+343,2011-12-0204,Washington Wizards,Los Angeles Clippers,199,8,325,-400,188,-26
+344,2011-12-0204,New York Knicks,New Jersey Nets,195,7.5,-270,230,191,7
+345,2011-12-0204,Detroit Pistons,New Orleans Pelicans,176.5,0,-105,-115,176,2
+346,2011-12-0204,Cleveland Cavaliers,Dallas Mavericks,188,5.5,200,-240,179,3
+347,2011-12-0204,Minnesota Timberwolves,Houston Rockets,203,2.5,-120,100,191,9
+348,2011-12-0204,Milwaukee Bucks,Chicago Bulls,191,4,175,-210,203,-23
+349,2011-12-0204,San Antonio Spurs,Oklahoma City Thunder,195,1.5,-145,125,203,11
+350,2011-12-0204,Phoenix Suns,Charlotte Bobcats,188,11,-550,425,184,6
+351,2011-12-0204,Utah Jazz,Los Angeles Lakers,187.5,1.5,-130,110,183,9
+352,2011-12-0204,Sacramento Kings,Golden State Warriors,199.5,0,-125,105,220,8
+353,2011-12-0204,Portland Trail Blazers,Denver Nuggets,201,4.5,-280,240,214,20
+354,2011-12-0205,Boston Celtics,Memphis Grizzlies,180,5,-190,165,178,18
+355,2011-12-0205,Miami Heat,Toronto Raptors,190,16.5,-4500,2000,184,6
+356,2011-12-0206,Washington Wizards,Toronto Raptors,186.5,3,-180,160,219,3
+357,2011-12-0206,Orlando Magic,Los Angeles Clippers,192,1,-105,-115,209,-5
+358,2011-12-0206,Philadelphia 76ers,Los Angeles Lakers,177,3.5,-180,160,185,5
+359,2011-12-0206,Atlanta Hawks,Phoenix Suns,186.5,8,-380,310,189,-9
+360,2011-12-0206,New Jersey Nets,Chicago Bulls,192,9,450,-600,195,-21
+361,2011-12-0206,New York Knicks,Utah Jazz,195.5,4,-155,135,187,11
+362,2011-12-0206,Memphis Grizzlies,San Antonio Spurs,186,2.5,-125,105,173,-5
+363,2011-12-0206,New Orleans Pelicans,Sacramento Kings,185,0.5,-130,110,192,-8
+364,2011-12-0206,Denver Nuggets,Houston Rockets,208,7.5,-280,240,189,-9
+365,2011-12-0206,Portland Trail Blazers,Oklahoma City Thunder,198,0,-115,-105,218,-4
+366,2011-12-0207,Indiana Pacers,Utah Jazz,190.5,8,-495,395,203,5
+367,2011-12-0207,Miami Heat,Cleveland Cavaliers,197.5,13,-1650,1050,198,16
+368,2011-12-0207,Boston Celtics,Charlotte Bobcats,177,14.5,-1950,1250,178,10
+369,2011-12-0207,Minnesota Timberwolves,Sacramento Kings,197,6,-300,240,170,2
+370,2011-12-0207,Milwaukee Bucks,Phoenix Suns,193,6.5,-380,310,212,-2
+371,2011-12-0207,Golden State Warriors,Oklahoma City Thunder,205.5,3.5,110,-130,235,-3
+372,2011-12-0208,Orlando Magic,Miami Heat,192,3,150,-170,191,13
+373,2011-12-0208,Washington Wizards,New York Knicks,194,2,-125,105,200,-14
+374,2011-12-0208,Toronto Raptors,Milwaukee Bucks,185.5,2,105,-125,204,-6
+375,2011-12-0208,Philadelphia 76ers,San Antonio Spurs,182,4,-160,140,190,-10
+376,2011-12-0208,Cleveland Cavaliers,Los Angeles Clippers,195.5,5.5,250,-300,191,7
+377,2011-12-0208,Atlanta Hawks,Indiana Pacers,185,3.5,-165,145,184,10
+378,2011-12-0208,New Jersey Nets,Detroit Pistons,184.5,5,-165,145,191,-7
+379,2011-12-0208,New Orleans Pelicans,Chicago Bulls,182,9,500,-650,157,-23
+380,2011-12-0208,Memphis Grizzlies,Minnesota Timberwolves,189,8.5,-340,280,165,5
+381,2011-12-0208,Denver Nuggets,Dallas Mavericks,196,1.5,-105,-115,200,-10
+382,2011-12-0208,Portland Trail Blazers,Houston Rockets,197,7,-380,310,199,-7
+383,2011-12-0209,Boston Celtics,Los Angeles Lakers,176.5,3,-160,140,175,-1
+384,2011-12-0209,Denver Nuggets,Golden State Warriors,210.5,6.5,-250,210,210,-8
+385,2011-12-0209,Phoenix Suns,Houston Rockets,200.5,2,-180,160,185,-7
+386,2011-12-0209,Sacramento Kings,Oklahoma City Thunder,202,7.5,240,-280,207,5
+387,2011-12-0210,Washington Wizards,Miami Heat,199,12.5,900,-1400,195,-17
+388,2011-12-0210,Toronto Raptors,Boston Celtics,175,5.5,160,-180,160,12
+389,2011-12-0210,Orlando Magic,Atlanta Hawks,182,5,-200,170,176,-2
+390,2011-12-0210,Charlotte Bobcats,Chicago Bulls,183,13.5,900,-1400,159,-31
+391,2011-12-0210,Philadelphia 76ers,Los Angeles Clippers,189,4,-165,145,155,-1
+392,2011-12-0210,Cleveland Cavaliers,Milwaukee Bucks,191,0,100,-120,225,-1
+393,2011-12-0210,Detroit Pistons,New Jersey Nets,189.5,2.5,-140,120,201,17
+394,2011-12-0210,Memphis Grizzlies,Indiana Pacers,184.5,2,-125,105,190,6
+395,2011-12-0210,Minnesota Timberwolves,Dallas Mavericks,190,2,110,-130,201,-7
+396,2011-12-0210,New Orleans Pelicans,Portland Trail Blazers,182.5,6.5,250,-300,180,-8
+397,2011-12-0210,New York Knicks,Los Angeles Lakers,186,3.5,165,-190,177,7
+398,2011-12-0210,Utah Jazz,Oklahoma City Thunder,200.5,2,-105,-115,188,-14
+399,2011-12-0211,Charlotte Bobcats,Los Angeles Clippers,191,9.5,425,-550,197,-25
+400,2011-12-0211,Indiana Pacers,Denver Nuggets,200,4,-150,130,222,-4
+401,2011-12-0211,Cleveland Cavaliers,Philadelphia 76ers,185,5.5,260,-320,183,-15
+402,2011-12-0211,Minnesota Timberwolves,New York Knicks,194,7.5,-255,215,198,-2
+403,2011-12-0211,New Jersey Nets,San Antonio Spurs,191.5,8,450,-600,192,-14
+404,2011-12-0211,Dallas Mavericks,Portland Trail Blazers,186,5,-175,155,191,3
+405,2011-12-0211,Milwaukee Bucks,Orlando Magic,189.5,1,105,-125,193,-5
+406,2011-12-0211,Sacramento Kings,Phoenix Suns,196.5,2.5,-140,120,182,-14
+407,2011-12-0212,Toronto Raptors,Los Angeles Lakers,176,6.5,220,-260,186,-2
+408,2011-12-0212,Boston Celtics,Chicago Bulls,176,3.5,100,-120,186,4
+409,2011-12-0212,Detroit Pistons,Washington Wizards,191.5,7,-255,215,175,-21
+410,2011-12-0212,Atlanta Hawks,Miami Heat,190,4.5,155,-175,194,-20
+411,2011-12-0212,Golden State Warriors,Houston Rockets,205,2.5,-120,100,203,9
+412,2011-12-0212,Memphis Grizzlies,Utah Jazz,189,6,-270,230,186,-10
+413,2011-12-0213,Charlotte Bobcats,Philadelphia 76ers,177.5,11.5,640,-1040,187,-9
+414,2011-12-0213,Orlando Magic,Minnesota Timberwolves,190,6.5,-205,175,191,13
+415,2011-12-0213,New Orleans Pelicans,Utah Jazz,183.5,3.5,175,-215,166,6
+416,2011-12-0213,Milwaukee Bucks,Miami Heat,201,6.5,230,-280,210,-18
+417,2011-12-0213,Dallas Mavericks,Los Angeles Clippers,188,4.5,-170,150,188,4
+418,2011-12-0213,Golden State Warriors,Phoenix Suns,202,4.5,-155,135,198,6
+419,2011-12-0214,Indiana Pacers,Miami Heat,198,1,115,-135,195,-15
+420,2011-12-0214,Toronto Raptors,New York Knicks,189,3.5,165,-190,177,-3
+421,2011-12-0214,Detroit Pistons,San Antonio Spurs,186.5,8.5,325,-405,194,-4
+422,2011-12-0214,Oklahoma City Thunder,Utah Jazz,201,11.5,-1225,775,196,26
+423,2011-12-0214,Memphis Grizzlies,Houston Rockets,191,4.5,-150,130,176,10
+424,2011-12-0214,Chicago Bulls,Sacramento Kings,187.5,11,-1095,695,236,6
+425,2011-12-0214,Denver Nuggets,Phoenix Suns,205,7.5,-585,435,201,17
+426,2011-12-0214,Portland Trail Blazers,Washington Wizards,191,13.5,-2435,1435,233,-15
+427,2011-12-0214,Los Angeles Lakers,Atlanta Hawks,179.5,5.5,-240,200,164,8
+428,2011-12-0215,Orlando Magic,Philadelphia 76ers,178.5,3,-155,135,190,16
+429,2011-12-0215,Toronto Raptors,San Antonio Spurs,186,7.5,270,-330,219,-7
+430,2011-12-0215,New Jersey Nets,Memphis Grizzlies,188,4.5,130,-150,205,-5
+431,2011-12-0215,Cleveland Cavaliers,Indiana Pacers,192,2,110,-130,185,11
+432,2011-12-0215,Boston Celtics,Detroit Pistons,178,10.5,-500,400,186,-10
+433,2011-12-0215,New York Knicks,Sacramento Kings,198.5,7,-260,220,185,15
+434,2011-12-0215,Milwaukee Bucks,New Orleans Pelicans,186,9,-500,400,181,-3
+435,2011-12-0215,Houston Rockets,Oklahoma City Thunder,203.5,3.5,120,-140,191,1
+436,2011-12-0215,Minnesota Timberwolves,Charlotte Bobcats,190.5,12,-650,475,192,12
+437,2011-12-0215,Dallas Mavericks,Denver Nuggets,198,6.5,-300,250,186,18
+438,2011-12-0215,Phoenix Suns,Atlanta Hawks,187.5,2,105,-125,200,-2
+439,2011-12-0215,Golden State Warriors,Portland Trail Blazers,197.5,2.5,-225,185,184,-2
+440,2011-12-0215,Los Angeles Clippers,Washington Wizards,198,15,-1400,900,186,18
+441,2011-12-0216,Indiana Pacers,New Jersey Nets,192,9,-500,400,181,5
+442,2011-12-0216,Chicago Bulls,Boston Celtics,177,8,-340,280,169,9
+443,2011-12-0216,Portland Trail Blazers,Los Angeles Clippers,192,1.5,115,-135,145,-3
+444,2011-12-0217,Orlando Magic,Milwaukee Bucks,190,8.5,-350,280,179,9
+445,2011-12-0217,Philadelphia 76ers,Dallas Mavericks,181,3,-170,150,157,-7
+446,2011-12-0217,Toronto Raptors,Charlotte Bobcats,180.5,6.5,-300,240,189,-7
+447,2011-12-0217,Cleveland Cavaliers,Miami Heat,198,9,440,-600,198,-24
+448,2011-12-0217,Detroit Pistons,Sacramento Kings,191,3.5,-130,110,222,6
+449,2011-12-0217,Oklahoma City Thunder,Golden State Warriors,210,10.5,-555,430,197,23
+450,2011-12-0217,Houston Rockets,Minnesota Timberwolves,199,6,-210,170,209,-13
+451,2011-12-0217,Memphis Grizzlies,Denver Nuggets,197.5,4,-185,160,205,1
+452,2011-12-0217,New York Knicks,New Orleans Pelicans,184.5,9,-575,465,174,-4
+453,2011-12-0217,Utah Jazz,Washington Wizards,196.5,9.5,-520,410,214,14
+454,2011-12-0217,Los Angeles Lakers,Phoenix Suns,185.5,8,-405,325,210,12
+455,2011-12-0218,Los Angeles Clippers,San Antonio Spurs,190.5,3.5,-145,125,203,-3
+456,2011-12-0218,Chicago Bulls,New Jersey Nets,190,13,-1335,885,182,-12
+457,2011-12-0218,Memphis Grizzlies,Golden State Warriors,196.5,5,-250,200,207,1
+458,2011-12-0218,Portland Trail Blazers,Atlanta Hawks,181,2.5,-215,175,174,20
+459,2011-12-0219,New York Knicks,Dallas Mavericks,186,2,110,-130,201,7
+460,2011-12-0219,Miami Heat,Orlando Magic,194,9.5,-600,450,168,12
+461,2011-12-0219,Detroit Pistons,Boston Celtics,183,4.5,175,-210,177,15
+462,2011-12-0219,Cleveland Cavaliers,Sacramento Kings,199,3,-130,110,185,1
+463,2011-12-0219,Indiana Pacers,Charlotte Bobcats,190,11.5,-625,475,181,35
+464,2011-12-0219,Minnesota Timberwolves,Philadelphia 76ers,190,1.5,-105,-115,183,1
+465,2011-12-0219,Houston Rockets,Utah Jazz,197.5,6,-250,210,186,16
+466,2011-12-0219,New Jersey Nets,Milwaukee Bucks,195,2.5,110,-130,177,-7
+467,2011-12-0219,Oklahoma City Thunder,Denver Nuggets,210,9.5,-385,315,242,6
+468,2011-12-0219,Phoenix Suns,Los Angeles Lakers,189,2.5,125,-145,192,12
+469,2011-12-0220,Chicago Bulls,Atlanta Hawks,182.5,10,-700,500,169,11
+470,2011-12-0220,New York Knicks,New Jersey Nets,194.5,8,-450,350,192,-8
+471,2011-12-0220,Dallas Mavericks,Boston Celtics,181,6,-550,425,162,16
+472,2011-12-0220,Milwaukee Bucks,Orlando Magic,188,3,105,-125,183,-3
+473,2011-12-0220,Oklahoma City Thunder,New Orleans Pelicans,189,13,-750,550,194,8
+474,2011-12-0220,Houston Rockets,Memphis Grizzlies,189,3.5,-145,125,190,4
+475,2011-12-0220,Utah Jazz,San Antonio Spurs,192.5,2,125,-145,208,-4
+476,2011-12-0220,Denver Nuggets,Minnesota Timberwolves,209,5.5,-165,145,204,2
+477,2011-12-0220,Phoenix Suns,Washington Wizards,198.5,6.5,-255,215,192,16
+478,2011-12-0220,Los Angeles Lakers,Portland Trail Blazers,181,4,-175,155,195,11
+479,2011-12-0220,Golden State Warriors,Los Angeles Clippers,199,1.5,120,-140,201,7
+480,2011-12-0221,Indiana Pacers,New Orleans Pelicans,181,10.5,-710,485,225,9
+481,2011-12-0221,Cleveland Cavaliers,Detroit Pistons,190,2,-135,115,201,1
+482,2011-12-0221,Miami Heat,Sacramento Kings,202.5,14.5,-1650,1050,228,12
+483,2011-12-0221,Memphis Grizzlies,Philadelphia 76ers,181.5,0,110,-130,165,13
+484,2011-12-0221,Portland Trail Blazers,San Antonio Spurs,188.5,3,-400,320,234,40
+485,2011-12-0222,Toronto Raptors,Detroit Pistons,186.5,3.5,-175,155,196,10
+486,2011-12-0222,Oklahoma City Thunder,Boston Celtics,186,9,-435,345,223,15
+487,2011-12-0222,Cleveland Cavaliers,New Orleans Pelicans,183,5.5,-210,170,173,-5
+488,2011-12-0222,Charlotte Bobcats,Indiana Pacers,189.5,6.5,190,-230,190,-14
+489,2011-12-0222,Washington Wizards,Sacramento Kings,201,3.5,-150,130,222,-8
+490,2011-12-0222,New York Knicks,Atlanta Hawks,188,4,-310,250,181,17
+491,2011-12-0222,New Jersey Nets,Orlando Magic,185.5,6,210,-260,199,-17
+492,2011-12-0222,Houston Rockets,Philadelphia 76ers,186,3,-165,145,180,6
+493,2011-12-0222,Chicago Bulls,Milwaukee Bucks,188.5,12,-760,510,201,19
+494,2011-12-0222,Minnesota Timberwolves,Utah Jazz,196.5,4,-215,175,198,2
+495,2011-12-0222,Phoenix Suns,Golden State Warriors,204,3,-190,165,210,-2
+496,2011-12-0222,Dallas Mavericks,Los Angeles Lakers,179.5,4.5,-180,155,187,-5
+497,2011-12-0222,Los Angeles Clippers,Denver Nuggets,205.5,6.5,-485,385,198,8
+498,2011-12-0223,Miami Heat,New York Knicks,199.5,10,-600,450,190,14
+499,2011-12-0223,Atlanta Hawks,Orlando Magic,179,1,175,-210,161,5
+500,2011-12-0223,Denver Nuggets,San Antonio Spurs,202,4,155,-175,213,-15
+501,2011-12-0223,Oklahoma City Thunder,Los Angeles Lakers,193,7,-320,260,185,15
+502,2011-12-0228,Cleveland Cavaliers,Boston Celtics,184.5,3.5,145,-165,169,-3
+503,2011-12-0228,Indiana Pacers,Golden State Warriors,202,5.5,-240,200,180,24
+504,2011-12-0228,Detroit Pistons,Philadelphia 76ers,182,3.5,140,-160,165,-29
+505,2011-12-0228,Houston Rockets,Toronto Raptors,190,10,-550,425,173,3
+506,2011-12-0228,Chicago Bulls,New Orleans Pelicans,179,13,-650,500,194,4
+507,2011-12-0228,Milwaukee Bucks,Washington Wizards,200,8.5,-320,260,237,1
+508,2011-12-0228,Dallas Mavericks,New Jersey Nets,187.5,11.5,-600,450,185,-1
+509,2011-12-0228,Sacramento Kings,Utah Jazz,203,1,-160,140,199,7
+510,2011-12-0228,Los Angeles Clippers,Minnesota Timberwolves,195.5,7,-270,230,206,-12
+511,2011-12-0229,Washington Wizards,Orlando Magic,191,7.5,325,-400,197,-7
+512,2011-12-0229,Philadelphia 76ers,Oklahoma City Thunder,191,3.5,130,-150,180,-4
+513,2011-12-0229,Detroit Pistons,Charlotte Bobcats,187.5,6.5,-240,200,203,15
+514,2011-12-0229,Atlanta Hawks,Golden State Warriors,192,7,-270,230,167,-3
+515,2011-12-0229,Boston Celtics,Milwaukee Bucks,184.5,7,-265,225,198,6
+516,2011-12-0229,New York Knicks,Cleveland Cavaliers,192.5,9.5,-600,450,223,17
+517,2011-12-0229,New Orleans Pelicans,Toronto Raptors,178,4,-155,135,179,-11
+518,2011-12-0229,Memphis Grizzlies,Dallas Mavericks,180,1,-135,115,181,11
+519,2011-12-0229,Utah Jazz,Houston Rockets,194.5,2,-130,110,187,21
+520,2011-12-0229,San Antonio Spurs,Chicago Bulls,190.5,2.5,-130,110,185,-7
+521,2011-12-0229,Denver Nuggets,Portland Trail Blazers,199.5,2,-150,130,199,9
+522,2011-12-0229,Los Angeles Lakers,Minnesota Timberwolves,190,7.5,-320,260,189,19
+523,2011-12-0301,Orlando Magic,Oklahoma City Thunder,192.5,1,100,-120,207,-3
+524,2011-12-0301,Phoenix Suns,Minnesota Timberwolves,200.5,3,-185,165,199,9
+525,2011-12-0301,Sacramento Kings,Los Angeles Clippers,200,4,155,-175,208,-8
+526,2011-12-0301,Portland Trail Blazers,Miami Heat,196,4.5,155,-175,200,-14
+527,2011-12-0302,Toronto Raptors,Memphis Grizzlies,182,4,140,-160,201,-3
+528,2011-12-0302,Boston Celtics,New Jersey Nets,187,7,-235,185,201,13
+529,2011-12-0302,Atlanta Hawks,Milwaukee Bucks,188,6,-170,150,193,5
+530,2011-12-0302,Cleveland Cavaliers,Chicago Bulls,190,8.5,480,-680,203,-21
+531,2011-12-0302,New Orleans Pelicans,Dallas Mavericks,176.5,6,260,-320,189,5
+532,2011-12-0302,Houston Rockets,Denver Nuggets,205,4.5,-160,140,222,-12
+533,2011-12-0302,Philadelphia 76ers,Golden State Warriors,189.5,7,-350,280,188,22
+534,2011-12-0302,San Antonio Spurs,Charlotte Bobcats,194.5,14,-3750,1750,174,30
+535,2011-12-0302,Utah Jazz,Miami Heat,199,5.5,195,-235,197,1
+536,2011-12-0302,Phoenix Suns,Los Angeles Clippers,196,2,130,-150,159,3
+537,2011-12-0302,Los Angeles Lakers,Sacramento Kings,192.5,10,-720,495,222,8
+538,2011-12-0303,Orlando Magic,Milwaukee Bucks,189.5,9,-525,425,212,16
+539,2011-12-0303,Washington Wizards,Cleveland Cavaliers,199,3.5,-175,155,199,3
+540,2011-12-0303,Atlanta Hawks,Oklahoma City Thunder,189.5,4,220,-260,187,7
+541,2011-12-0303,Memphis Grizzlies,Detroit Pistons,182.5,8.5,-360,300,183,17
+542,2011-12-0303,New Orleans Pelicans,Indiana Pacers,181,6,220,-260,186,-18
+543,2011-12-0303,Dallas Mavericks,Utah Jazz,187,8,-360,300,198,6
+544,2011-12-0303,Portland Trail Blazers,Minnesota Timberwolves,193,6.5,-260,220,232,-12
+545,2011-12-0304,Boston Celtics,New York Knicks,187,2.5,-115,-105,226,4
+546,2011-12-0304,Los Angeles Lakers,Miami Heat,193,3,125,-145,176,10
+547,2011-12-0304,Charlotte Bobcats,New Jersey Nets,188.5,2,170,-200,205,-3
+548,2011-12-0304,Toronto Raptors,Golden State Warriors,193.5,1,-120,100,158,8
+549,2011-12-0304,Houston Rockets,Los Angeles Clippers,196,1,-135,115,208,-2
+550,2011-12-0304,Philadelphia 76ers,Chicago Bulls,180,4.5,150,-170,187,-5
+551,2011-12-0304,Phoenix Suns,Sacramento Kings,203.5,5.5,-250,210,184,8
+552,2011-12-0304,San Antonio Spurs,Denver Nuggets,206,7.5,-300,250,193,-5
+553,2011-12-0305,Cleveland Cavaliers,Utah Jazz,195.5,0,110,-130,209,-9
+554,2011-12-0305,Toronto Raptors,Orlando Magic,185.5,6,215,-265,180,-4
+555,2011-12-0305,Washington Wizards,Golden State Warriors,203.5,1,-115,-105,220,-20
+556,2011-12-0305,Minnesota Timberwolves,Los Angeles Clippers,199.5,2.5,-135,115,189,1
+557,2011-12-0305,Milwaukee Bucks,Philadelphia 76ers,188,3,110,-130,190,4
+558,2011-12-0305,Chicago Bulls,Indiana Pacers,186,7,-315,255,164,20
+559,2011-12-0305,Oklahoma City Thunder,Dallas Mavericks,195,7,-310,250,186,4
+560,2011-12-0305,Denver Nuggets,Sacramento Kings,211,10,-495,395,235,3
+561,2011-12-0305,Portland Trail Blazers,New Orleans Pelicans,185.5,11,-885,585,160,12
+562,2011-12-0306,Indiana Pacers,Atlanta Hawks,183,6.5,-370,300,197,-5
+563,2011-12-0306,Charlotte Bobcats,Orlando Magic,189,9.5,425,-550,184,16
+564,2011-12-0306,Boston Celtics,Houston Rockets,188.5,5,-195,170,189,5
+565,2011-12-0306,Miami Heat,New Jersey Nets,196,12.5,-1905,1205,186,30
+566,2011-12-0306,Detroit Pistons,Los Angeles Lakers,185.5,5,205,-255,173,3
+567,2011-12-0306,Dallas Mavericks,New York Knicks,189.5,4.5,-145,125,180,10
+568,2011-12-0307,Philadelphia 76ers,Boston Celtics,179.5,5,-245,195,174,32
+569,2011-12-0307,Toronto Raptors,Houston Rockets,188,1.5,100,-120,214,18
+570,2011-12-0307,Charlotte Bobcats,Utah Jazz,194.5,8.5,255,-315,192,-6
+571,2011-12-0307,Washington Wizards,Los Angeles Lakers,195,8,270,-340,207,5
+572,2011-12-0307,Miami Heat,Atlanta Hawks,190,11.5,-1335,885,175,3
+573,2011-12-0307,Milwaukee Bucks,Chicago Bulls,195,8,260,-320,210,-2
+574,2011-12-0307,New Jersey Nets,Los Angeles Clippers,194,7,260,-320,201,1
+575,2011-12-0307,Minnesota Timberwolves,Portland Trail Blazers,196,2.5,-105,-115,200,12
+576,2011-12-0307,Oklahoma City Thunder,Phoenix Suns,202,10,-610,450,219,11
+577,2011-12-0307,San Antonio Spurs,New York Knicks,199.5,7,-365,295,223,13
+578,2011-12-0307,Denver Nuggets,Cleveland Cavaliers,209,11,-650,460,199,-1
+579,2011-12-0307,Sacramento Kings,New Orleans Pelicans,192,4.5,-210,180,197,1
+580,2011-12-0307,Golden State Warriors,Memphis Grizzlies,194,1,-120,100,202,-18
+581,2011-12-0308,Chicago Bulls,Orlando Magic,183.5,7.5,-265,215,193,-5
+582,2011-12-0308,Phoenix Suns,Dallas Mavericks,188,2.5,135,-155,190,2
+583,2011-12-0309,Charlotte Bobcats,New Jersey Nets,192,2.5,100,-120,157,-9
+584,2011-12-0309,Philadelphia 76ers,Utah Jazz,185,6.5,-305,245,195,13
+585,2011-12-0309,Detroit Pistons,Atlanta Hawks,182,2,110,-130,171,1
+586,2011-12-0309,Boston Celtics,Portland Trail Blazers,184,3.5,-140,120,190,18
+587,2011-12-0309,Minnesota Timberwolves,Los Angeles Lakers,193,0,145,-165,207,-3
+588,2011-12-0309,Oklahoma City Thunder,Cleveland Cavaliers,202,13,-1555,1005,186,-6
+589,2011-12-0309,Milwaukee Bucks,New York Knicks,202,1.5,110,-130,233,5
+590,2011-12-0309,San Antonio Spurs,Los Angeles Clippers,195,5.5,-160,140,228,-12
+591,2011-12-0309,Denver Nuggets,New Orleans Pelicans,193.5,11,-835,535,207,13
+592,2011-12-0309,Sacramento Kings,Dallas Mavericks,196,3.5,100,-120,207,13
+593,2011-12-0310,Washington Wizards,Portland Trail Blazers,199.5,5.5,220,-270,209,-11
+594,2011-12-0310,Detroit Pistons,Toronto Raptors,186.5,3.5,-135,115,191,19
+595,2011-12-0310,Miami Heat,Indiana Pacers,195.5,9.5,-550,425,184,2
+596,2011-12-0310,Minnesota Timberwolves,New Orleans Pelicans,189,9.5,-355,285,184,-6
+597,2011-12-0310,New Jersey Nets,Houston Rockets,194,3,215,-265,218,-6
+598,2011-12-0310,Chicago Bulls,Utah Jazz,190,10,-845,545,208,14
+599,2011-12-0310,Oklahoma City Thunder,Charlotte Bobcats,199.5,15.5,-4405,2005,217,27
+600,2011-12-0310,Phoenix Suns,Memphis Grizzlies,192,2,100,-120,189,7
+601,2011-12-0310,Golden State Warriors,Dallas Mavericks,193,1.5,-165,145,198,24
+602,2011-12-0311,New York Knicks,Philadelphia 76ers,193,3,-140,120,200,-12
+603,2011-12-0311,Los Angeles Lakers,Boston Celtics,180,6,-210,175,191,3
+604,2011-12-0311,Orlando Magic,Indiana Pacers,186.5,4.5,-225,185,201,13
+605,2011-12-0311,Toronto Raptors,Milwaukee Bucks,196.5,0,105,-125,204,-6
+606,2011-12-0311,Cleveland Cavaliers,Houston Rockets,195.5,2,-140,120,225,11
+607,2011-12-0311,Denver Nuggets,Memphis Grizzlies,201,6,-260,220,185,-3
+608,2011-12-0311,Sacramento Kings,Atlanta Hawks,191.5,0,-125,105,205,-7
+609,2011-12-0311,Los Angeles Clippers,Golden State Warriors,200,7.5,-340,280,190,-4
+610,2011-12-0312,New Jersey Nets,Milwaukee Bucks,198,2,135,-155,204,-6
+611,2011-12-0312,Chicago Bulls,New York Knicks,197.5,8,-450,350,203,5
+612,2011-12-0312,New Orleans Pelicans,Charlotte Bobcats,184.5,7,-270,220,144,-2
+613,2011-12-0312,San Antonio Spurs,Washington Wizards,205,14,-1805,1155,209,15
+614,2011-12-0312,Utah Jazz,Detroit Pistons,191.5,7,-310,250,195,15
+615,2011-12-0312,Phoenix Suns,Minnesota Timberwolves,199,4,-160,140,251,-3
+616,2011-12-0312,Los Angeles Clippers,Boston Celtics,185,5.5,-205,165,179,-9
+617,2011-12-0313,Orlando Magic,Miami Heat,189.5,4,160,-180,202,6
+618,2011-12-0313,Cleveland Cavaliers,Toronto Raptors,192.5,4.5,-175,155,184,-8
+619,2011-12-0313,Indiana Pacers,Portland Trail Blazers,191.5,3.5,-170,150,167,17
+620,2011-12-0313,Memphis Grizzlies,Los Angeles Lakers,182,0,-125,105,227,-5
+621,2011-12-0313,Oklahoma City Thunder,Houston Rockets,203,10.5,-900,650,207,-1
+622,2011-12-0313,Dallas Mavericks,Washington Wizards,198.5,12.5,-1500,900,205,9
+623,2011-12-0313,Denver Nuggets,Atlanta Hawks,196,6,-200,170,235,1
+624,2011-12-0313,Sacramento Kings,Golden State Warriors,206.5,2.5,-160,140,204,-26
+625,2011-12-0314,Indiana Pacers,Philadelphia 76ers,185,1.5,-105,-115,205,17
+626,2011-12-0314,New Jersey Nets,Toronto Raptors,187,1.5,-130,110,182,14
+627,2011-12-0314,New York Knicks,Portland Trail Blazers,200.5,3.5,-250,210,200,42
+628,2011-12-0314,New Orleans Pelicans,Los Angeles Lakers,180,6,165,-185,208,-6
+629,2011-12-0314,Houston Rockets,Charlotte Bobcats,192,9.5,-380,310,194,20
+630,2011-12-0314,Milwaukee Bucks,Cleveland Cavaliers,204,5.5,-300,250,220,10
+631,2011-12-0314,Chicago Bulls,Miami Heat,192,2.5,130,-150,208,4
+632,2011-12-0314,San Antonio Spurs,Orlando Magic,191,5.5,-350,290,233,11
+633,2011-12-0314,Sacramento Kings,Detroit Pistons,198,4.5,-165,145,236,-12
+634,2011-12-0314,Golden State Warriors,Boston Celtics,189,1,180,-220,208,-2
+635,2011-12-0314,Los Angeles Clippers,Atlanta Hawks,185,6.5,-290,245,178,14
+636,2011-12-0314,Phoenix Suns,Utah Jazz,198,4,-190,165,231,9
+637,2011-12-0315,New Orleans Pelicans,Washington Wizards,193,4,-170,150,188,-10
+638,2011-12-0315,Dallas Mavericks,Charlotte Bobcats,187.5,13.5,-2105,1305,197,5
+639,2011-12-0315,Denver Nuggets,Oklahoma City Thunder,211,1,115,-135,193,-13
+640,2011-12-0315,Utah Jazz,Minnesota Timberwolves,201,4,-145,125,216,6
+641,2011-12-0315,Los Angeles Clippers,Phoenix Suns,195,7.5,-625,465,178,-4
+642,2011-12-0316,Orlando Magic,New Jersey Nets,191,11.5,-1050,650,156,16
+643,2011-12-0316,Philadelphia 76ers,Miami Heat,190.5,3.5,150,-170,162,-6
+644,2011-12-0316,New York Knicks,Indiana Pacers,198.5,5,-190,165,215,15
+645,2011-12-0316,Atlanta Hawks,Washington Wizards,197,10,-870,570,190,14
+646,2011-12-0316,Memphis Grizzlies,Toronto Raptors,187.5,9.5,-610,450,224,-4
+647,2011-12-0316,Chicago Bulls,Portland Trail Blazers,192,9,-450,350,189,-11
+648,2011-12-0316,Oklahoma City Thunder,San Antonio Spurs,206.5,4.5,-225,185,219,-9
+649,2011-12-0316,Sacramento Kings,Boston Celtics,194,3.5,160,-180,215,25
+650,2011-12-0316,Phoenix Suns,Detroit Pistons,196,5,-190,165,210,8
+651,2011-12-0316,Golden State Warriors,Milwaukee Bucks,206.5,1,110,-130,218,-22
+652,2011-12-0316,Los Angeles Lakers,Minnesota Timberwolves,195,8.5,-355,285,189,5
+653,2011-12-0317,Los Angeles Clippers,Houston Rockets,196,8,-340,280,186,4
+654,2011-12-0317,Charlotte Bobcats,Toronto Raptors,185,3,-105,-115,210,4
+655,2011-12-0317,Indiana Pacers,New York Knicks,197.5,4,-185,165,190,-14
+656,2011-12-0317,Chicago Bulls,Philadelphia 76ers,185,5.5,-180,160,169,9
+657,2011-12-0317,New Jersey Nets,New Orleans Pelicans,185,4,-150,130,196,-8
+658,2011-12-0317,Dallas Mavericks,San Antonio Spurs,195.5,1,-155,135,205,7
+659,2011-12-0317,Denver Nuggets,Boston Celtics,196.5,4,-260,220,189,7
+660,2011-12-0317,Utah Jazz,Golden State Warriors,202,6,-345,285,191,7
+661,2011-12-0318,Cleveland Cavaliers,Atlanta Hawks,191,1,120,-140,190,-16
+662,2011-12-0318,Los Angeles Clippers,Detroit Pistons,190.5,8.5,-320,260,170,4
+663,2011-12-0318,Memphis Grizzlies,Washington Wizards,200.5,12,-1150,750,189,5
+664,2011-12-0318,Sacramento Kings,Minnesota Timberwolves,209.5,0,105,-125,214,16
+665,2011-12-0318,Miami Heat,Orlando Magic,188.5,9,-500,400,172,10
+666,2011-12-0318,Phoenix Suns,Houston Rockets,202.5,5.5,-240,200,185,13
+667,2011-12-0318,Oklahoma City Thunder,Portland Trail Blazers,199.5,9,-500,400,206,16
+668,2011-12-0318,Los Angeles Lakers,Utah Jazz,194.5,10.5,-800,600,202,-4
+669,2011-12-0319,Charlotte Bobcats,Philadelphia 76ers,185,9,450,-600,185,-25
+670,2011-12-0319,Atlanta Hawks,Boston Celtics,183,2,-125,105,155,-3
+671,2011-12-0319,New Jersey Nets,Cleveland Cavaliers,196.5,3.5,-175,155,205,-5
+672,2011-12-0319,Orlando Magic,Chicago Bulls,184,1,-130,110,144,-26
+673,2011-12-0319,Denver Nuggets,Dallas Mavericks,201.5,4,-185,165,207,-17
+674,2011-12-0319,Golden State Warriors,Minnesota Timberwolves,205.5,1,-125,105,190,-4
+675,2011-12-0320,Indiana Pacers,Los Angeles Clippers,187,3,-165,145,191,13
+676,2011-12-0320,Miami Heat,Phoenix Suns,198,11.5,-725,525,194,4
+677,2011-12-0320,New York Knicks,Toronto Raptors,198,8.5,-450,350,193,19
+678,2011-12-0320,Houston Rockets,Los Angeles Lakers,192,3,130,-150,211,3
+679,2011-12-0320,Utah Jazz,Oklahoma City Thunder,204,3,130,-150,187,7
+680,2011-12-0320,Sacramento Kings,Memphis Grizzlies,202,3.5,130,-150,229,9
+681,2011-12-0320,Portland Trail Blazers,Milwaukee Bucks,203,4.5,-165,145,203,-29
+682,2011-12-0321,Philadelphia 76ers,New York Knicks,193,5,-170,150,161,-3
+683,2011-12-0321,Toronto Raptors,Chicago Bulls,186,6.5,290,-350,176,-12
+684,2011-12-0321,Orlando Magic,Phoenix Suns,192.5,8,-375,305,196,10
+685,2011-12-0321,Atlanta Hawks,Cleveland Cavaliers,190,7.5,-330,270,205,1
+686,2011-12-0321,New Jersey Nets,Washington Wizards,203.5,5,-200,170,197,-19
+687,2011-12-0321,New Orleans Pelicans,Golden State Warriors,188,2,-130,110,193,-9
+688,2011-12-0321,Oklahoma City Thunder,Los Angeles Clippers,198,8,-475,375,205,23
+689,2011-12-0321,San Antonio Spurs,Minnesota Timberwolves,207,9.5,-550,425,216,16
+690,2011-12-0321,Denver Nuggets,Detroit Pistons,202,9,-400,320,231,1
+691,2011-12-0321,Dallas Mavericks,Los Angeles Lakers,188,4.5,-180,160,202,-16
+692,2011-12-0322,Washington Wizards,Indiana Pacers,199.5,7,250,-300,168,-2
+693,2011-12-0322,Milwaukee Bucks,Boston Celtics,200.5,3.5,-175,155,191,-9
+694,2011-12-0322,Houston Rockets,Golden State Warriors,197,7,-350,290,192,26
+695,2011-12-0322,New Orleans Pelicans,Los Angeles Clippers,181.5,3.5,165,-185,187,7
+696,2011-12-0322,Portland Trail Blazers,Memphis Grizzlies,194,0,100,-120,190,4
+697,2011-12-0322,Sacramento Kings,Utah Jazz,210.5,1,-130,110,205,-1
+698,2011-12-0323,Toronto Raptors,New York Knicks,194,5,200,-240,175,17
+699,2011-12-0323,Charlotte Bobcats,Milwaukee Bucks,200,6.5,260,-320,204,-20
+700,2011-12-0323,Orlando Magic,Cleveland Cavaliers,192.5,9,-500,400,173,13
+701,2011-12-0323,Indiana Pacers,Phoenix Suns,195.5,5.5,-160,140,224,-2
+702,2011-12-0323,Detroit Pistons,Miami Heat,194,9,350,-450,161,-15
+703,2011-12-0323,Atlanta Hawks,New Jersey Nets,187.5,8,-300,250,177,9
+704,2011-12-0323,Philadelphia 76ers,Boston Celtics,179.5,5.5,-310,255,185,13
+705,2011-12-0323,Oklahoma City Thunder,Minnesota Timberwolves,210.5,10.5,-650,475,289,9
+706,2011-12-0323,San Antonio Spurs,Dallas Mavericks,200,4.5,-170,150,191,17
+707,2011-12-0323,Los Angeles Lakers,Portland Trail Blazers,195.5,9,-550,425,199,7
+708,2011-12-0323,Utah Jazz,Denver Nuggets,208,2.5,-130,110,223,19
+709,2011-12-0324,Los Angeles Clippers,Memphis Grizzlies,190.5,3.5,-130,110,186,16
+710,2011-12-0324,Washington Wizards,Atlanta Hawks,192,4,130,-150,187,-3
+711,2011-12-0324,New York Knicks,Detroit Pistons,195,10.5,-750,550,180,22
+712,2011-12-0324,New Jersey Nets,Charlotte Bobcats,192,6,-250,210,191,13
+713,2011-12-0324,Houston Rockets,Dallas Mavericks,195,1.5,-150,130,200,-2
+714,2011-12-0324,New Orleans Pelicans,San Antonio Spurs,190.5,6,175,-210,175,-3
+715,2011-12-0324,Chicago Bulls,Toronto Raptors,184,13.5,-1100,750,203,1
+716,2011-12-0324,Milwaukee Bucks,Indiana Pacers,201.5,3,-185,165,229,-21
+717,2011-12-0324,Golden State Warriors,Sacramento Kings,207,2.5,-125,105,219,3
+718,2011-12-0325,Cleveland Cavaliers,Phoenix Suns,199.5,3,155,-175,191,-25
+719,2011-12-0325,Minnesota Timberwolves,Denver Nuggets,212,0,-125,105,217,17
+720,2011-12-0325,Atlanta Hawks,Utah Jazz,192,2,-110,-110,272,6
+721,2011-12-0325,Boston Celtics,Washington Wizards,193.5,11,-550,425,164,12
+722,2011-12-0325,San Antonio Spurs,Philadelphia 76ers,191,3,-145,125,169,17
+723,2011-12-0325,Oklahoma City Thunder,Miami Heat,200,1,-125,105,190,16
+724,2011-12-0325,Portland Trail Blazers,Golden State Warriors,197.5,9,-600,450,177,3
+725,2011-12-0325,Los Angeles Lakers,Memphis Grizzlies,193,6.5,-300,250,198,-6
+726,2011-12-0326,Toronto Raptors,Orlando Magic,183,5,210,-250,218,-16
+727,2011-12-0326,Indiana Pacers,Miami Heat,193,3,150,-170,195,15
+728,2011-12-0326,Washington Wizards,Detroit Pistons,196.5,1,110,-130,156,-2
+729,2011-12-0326,Charlotte Bobcats,Boston Celtics,184,7,230,-270,197,-7
+730,2011-12-0326,New York Knicks,Milwaukee Bucks,209,6,-200,170,169,9
+731,2011-12-0326,New Jersey Nets,Utah Jazz,197,2.5,-130,110,189,-21
+732,2011-12-0326,Chicago Bulls,Denver Nuggets,199,8,-360,300,199,-17
+733,2011-12-0326,Houston Rockets,Sacramento Kings,208.5,6,-260,220,219,7
+734,2011-12-0326,Los Angeles Clippers,New Orleans Pelicans,181.5,9.5,-700,500,182,12
+735,2011-12-0327,Philadelphia 76ers,Cleveland Cavaliers,186,10,-500,400,188,18
+736,2011-12-0327,Memphis Grizzlies,Minnesota Timberwolves,200,5.5,-200,170,179,7
+737,2011-12-0327,Milwaukee Bucks,Atlanta Hawks,198.5,2,-140,120,209,7
+738,2011-12-0327,Dallas Mavericks,Houston Rockets,193,6.5,-300,250,171,9
+739,2011-12-0327,Phoenix Suns,San Antonio Spurs,200,2,110,-130,207,-7
+740,2011-12-0327,Portland Trail Blazers,Oklahoma City Thunder,198.5,4.5,180,-220,204,-14
+741,2011-12-0327,Golden State Warriors,Los Angeles Lakers,198,5.5,310,-380,205,-3
+742,2011-12-0328,Charlotte Bobcats,Minnesota Timberwolves,199.5,6,180,-220,171,-5
+743,2011-12-0328,Cleveland Cavaliers,Detroit Pistons,191.5,1,104,-115,162,-12
+744,2011-12-0328,New York Knicks,Orlando Magic,189,1.5,110,-130,194,22
+745,2011-12-0328,Toronto Raptors,Denver Nuggets,202,3.5,155,-175,201,9
+746,2011-12-0328,New Jersey Nets,Indiana Pacers,193.5,5,210,-250,184,16
+747,2011-12-0328,Boston Celtics,Utah Jazz,190.5,4.5,-160,140,176,12
+748,2011-12-0328,Atlanta Hawks,Chicago Bulls,183,4,160,-180,175,-21
+749,2011-12-0328,Sacramento Kings,San Antonio Spurs,212,4,155,-175,229,-5
+750,2011-12-0328,Golden State Warriors,New Orleans Pelicans,190,3,-140,120,189,-15
+751,2011-12-0328,Los Angeles Clippers,Phoenix Suns,195.5,6,-310,255,189,17
+752,2011-12-0329,Indiana Pacers,Washington Wizards,194.5,10,-600,450,182,4
+753,2011-12-0329,Miami Heat,Dallas Mavericks,189,8,-400,320,191,21
+754,2011-12-0329,Portland Trail Blazers,New Orleans Pelicans,185,8.5,-470,370,192,6
+755,2011-12-0329,Los Angeles Lakers,Oklahoma City Thunder,201,1,-116,105,195,-9
+756,2011-12-0330,Toronto Raptors,Miami Heat,191.5,8,295,-355,214,-12
+757,2011-12-0330,Washington Wizards,Philadelphia 76ers,186,8.5,345,-420,173,21
+758,2011-12-0330,Charlotte Bobcats,Denver Nuggets,203.5,8,325,-400,187,-11
+759,2011-12-0330,Cleveland Cavaliers,Milwaukee Bucks,204,5,170,-200,205,-37
+760,2011-12-0330,Atlanta Hawks,New York Knicks,188,3.5,-150,130,190,10
+761,2011-12-0330,Minnesota Timberwolves,Boston Celtics,191,1.5,100,-120,179,-21
+762,2011-12-0330,Chicago Bulls,Detroit Pistons,182,12,-1000,700,154,12
+763,2011-12-0330,Orlando Magic,Dallas Mavericks,186.5,5,-220,180,198,-2
+764,2011-12-0330,Houston Rockets,Memphis Grizzlies,191.5,0,-125,105,187,9
+765,2011-12-0330,Utah Jazz,Sacramento Kings,212.5,7.5,-350,290,207,-1
+766,2011-12-0330,Golden State Warriors,New Jersey Nets,197,4.5,-165,145,202,-2
+767,2011-12-0330,Los Angeles Clippers,Portland Trail Blazers,188,8,-600,450,195,1
+768,2011-12-0331,Los Angeles Lakers,New Orleans Pelicans,186.5,12,-1620,1095,173,3
+769,2011-12-0331,New York Knicks,Cleveland Cavaliers,192.5,9.5,-900,650,166,16
+770,2011-12-0331,Philadelphia 76ers,Atlanta Hawks,179,6,-310,255,185,5
+771,2011-12-0331,Detroit Pistons,Charlotte Bobcats,184,8,-350,290,217,3
+772,2011-12-0331,Milwaukee Bucks,Memphis Grizzlies,203,1.5,-150,130,194,-4
+773,2011-12-0331,San Antonio Spurs,Indiana Pacers,200,8,-380,310,215,9
+774,2011-12-0331,Sacramento Kings,New Jersey Nets,209,6.5,-260,220,210,-12
+775,2011-12-0331,Los Angeles Clippers,Utah Jazz,192,6,-220,180,201,9
+776,2011-12-0401,Oklahoma City Thunder,Chicago Bulls,194,5,-275,235,170,14
+777,2011-12-0401,Boston Celtics,Miami Heat,186.5,3,165,-190,163,19
+778,2011-12-0401,Toronto Raptors,Washington Wizards,188,6,-280,240,191,7
+779,2011-12-0401,Orlando Magic,Denver Nuggets,200.5,5.5,-165,145,205,-3
+780,2011-12-0401,Houston Rockets,Indiana Pacers,193.5,3.5,-165,145,206,-2
+781,2011-12-0401,Phoenix Suns,New Orleans Pelicans,191,11,-700,500,167,17
+782,2011-12-0401,Portland Trail Blazers,Minnesota Timberwolves,196,1.5,-160,140,225,13
+783,2011-12-0401,Los Angeles Lakers,Golden State Warriors,197,10.5,-720,520,232,8
+784,2011-12-0402,Washington Wizards,Milwaukee Bucks,204.5,6,260,-320,210,-14
+785,2011-12-0402,Chicago Bulls,Houston Rockets,187,8.5,-380,310,192,-6
+786,2011-12-0402,Oklahoma City Thunder,Memphis Grizzlies,198,8,-340,280,182,-6
+787,2011-12-0402,Dallas Mavericks,Los Angeles Clippers,189.5,4.5,-185,165,169,-19
+788,2011-12-0402,Sacramento Kings,Minnesota Timberwolves,215,2,-160,140,224,8
+789,2011-12-0402,Portland Trail Blazers,Utah Jazz,197,2.5,-135,115,199,-5
+790,2011-12-0403,Cleveland Cavaliers,San Antonio Spurs,201,9.5,465,-655,215,-35
+791,2011-12-0403,Indiana Pacers,New York Knicks,190.5,5,-245,195,216,8
+792,2011-12-0403,Toronto Raptors,Charlotte Bobcats,187.5,9,-635,445,179,5
+793,2011-12-0403,Detroit Pistons,Orlando Magic,184,5.5,-105,-115,197,7
+794,2011-12-0403,Miami Heat,Philadelphia 76ers,184,9,-325,265,192,6
+795,2011-12-0403,Memphis Grizzlies,Golden State Warriors,198.5,9,-320,260,192,4
+796,2011-12-0403,Sacramento Kings,Phoenix Suns,215,1,125,-145,209,-9
+797,2011-12-0403,Los Angeles Lakers,New Jersey Nets,195,10.5,-435,345,178,4
+798,2011-12-0404,Washington Wizards,Indiana Pacers,193,6,210,-250,205,-13
+799,2011-12-0404,Philadelphia 76ers,Toronto Raptors,183,8.5,-430,335,177,-21
+800,2011-12-0404,Boston Celtics,San Antonio Spurs,192,1,-107,-103,173,-1
+801,2011-12-0404,Atlanta Hawks,Charlotte Bobcats,185.5,13,-1425,1000,213,27
+802,2011-12-0404,Miami Heat,Oklahoma City Thunder,197,3,-145,125,191,5
+803,2011-12-0404,New Orleans Pelicans,Denver Nuggets,196,4.5,170,-200,186,2
+804,2011-12-0404,Minnesota Timberwolves,Golden State Warriors,206,6.5,-250,210,191,-3
+805,2011-12-0404,Milwaukee Bucks,Cleveland Cavaliers,205,11,-950,675,205,9
+806,2011-12-0404,Dallas Mavericks,Memphis Grizzlies,184.5,6,-240,200,180,10
+807,2011-12-0404,Utah Jazz,Phoenix Suns,201,5.5,-250,210,212,-2
+808,2011-12-0404,Portland Trail Blazers,New Jersey Nets,196.5,8,-500,400,189,13
+809,2011-12-0404,Los Angeles Clippers,Los Angeles Lakers,188,3,-140,120,221,-5
+810,2011-12-0405,Orlando Magic,New York Knicks,188,3,-145,125,176,-16
+811,2011-12-0405,Detroit Pistons,Washington Wizards,190,7.5,-375,305,193,5
+812,2011-12-0405,Chicago Bulls,Boston Celtics,176.5,8,-270,230,179,7
+813,2011-12-0405,Sacramento Kings,Los Angeles Clippers,206,2.5,130,-150,178,-8
+814,2011-12-0406,Indiana Pacers,Oklahoma City Thunder,200,3,150,-170,201,5
+815,2011-12-0406,New Jersey Nets,Washington Wizards,196,8,-360,300,208,12
+816,2011-12-0406,Atlanta Hawks,Detroit Pistons,186,9,-520,410,197,5
+817,2011-12-0406,Miami Heat,Memphis Grizzlies,189,8,-400,320,179,-15
+818,2011-12-0406,Toronto Raptors,Cleveland Cavaliers,190,7.5,-350,290,164,-4
+819,2011-12-0406,San Antonio Spurs,New Orleans Pelicans,193,12,-850,625,231,25
+820,2011-12-0406,Milwaukee Bucks,Charlotte Bobcats,202,13.5,-1500,1025,185,5
+821,2011-12-0406,Dallas Mavericks,Portland Trail Blazers,191,6.5,-260,220,196,-2
+822,2011-12-0406,Denver Nuggets,Phoenix Suns,210.5,3.5,-155,135,204,6
+823,2011-12-0406,Utah Jazz,Golden State Warriors,203,8,-360,300,202,6
+824,2011-12-0406,Los Angeles Lakers,Houston Rockets,194,6,-270,230,219,-5
+825,2011-12-0407,Charlotte Bobcats,Atlanta Hawks,187.5,9,330,-420,212,-20
+826,2011-12-0407,Indiana Pacers,Boston Celtics,187,2,-130,110,158,-14
+827,2011-12-0407,Philadelphia 76ers,Orlando Magic,180,4.5,-250,210,170,-6
+828,2011-12-0407,New Orleans Pelicans,Minnesota Timberwolves,190,2.5,125,-145,189,9
+829,2011-12-0407,Memphis Grizzlies,Dallas Mavericks,183,3.5,-180,160,183,5
+830,2011-12-0407,Milwaukee Bucks,Portland Trail Blazers,204,4.5,-200,170,210,22
+831,2011-12-0407,Phoenix Suns,Los Angeles Lakers,197.5,1,-130,110,230,20
+832,2011-12-0407,Los Angeles Clippers,Sacramento Kings,205.5,8.5,-400,320,203,15
+833,2011-12-0407,Golden State Warriors,Denver Nuggets,210.5,3.5,135,-155,209,15
+834,2011-12-0408,New York Knicks,Chicago Bulls,186,2.5,135,-155,199,1
+835,2011-12-0408,New Jersey Nets,Cleveland Cavaliers,193.5,7,-350,290,239,5
+836,2011-12-0408,Boston Celtics,Philadelphia 76ers,176.5,4,-170,150,182,24
+837,2011-12-0408,Miami Heat,Detroit Pistons,189.5,12.5,-975,685,173,23
+838,2011-12-0408,Oklahoma City Thunder,Toronto Raptors,197,13,-1100,816,166,16
+839,2011-12-0408,San Antonio Spurs,Utah Jazz,208,10,-550,425,218,10
+840,2011-12-0408,Sacramento Kings,Houston Rockets,208,3,150,-170,191,-17
+841,2011-12-0409,Indiana Pacers,Toronto Raptors,189.5,9.5,-700,500,201,5
+842,2011-12-0409,Orlando Magic,Detroit Pistons,184,8.5,-325,265,208,30
+843,2011-12-0409,Charlotte Bobcats,Washington Wizards,194.5,1.5,-125,105,198,-28
+844,2011-12-0409,New Orleans Pelicans,Los Angeles Lakers,186,2,150,-170,184,-2
+845,2011-12-0409,Memphis Grizzlies,Los Angeles Clippers,186,4,-180,160,179,9
+846,2011-12-0409,Milwaukee Bucks,Oklahoma City Thunder,210,3,130,-150,198,-20
+847,2011-12-0409,Denver Nuggets,Golden State Warriors,211,9,-450,350,207,39
+848,2011-12-0409,Minnesota Timberwolves,Phoenix Suns,208.5,0,125,-145,204,-24
+849,2011-12-0409,Utah Jazz,San Antonio Spurs,209.5,3.5,-175,155,175,7
+850,2011-12-0409,Portland Trail Blazers,Houston Rockets,196,3.5,-145,125,183,-5
+851,2011-12-0410,Washington Wizards,Orlando Magic,194.5,5.5,175,-210,178,8
+852,2011-12-0410,Miami Heat,Boston Celtics,183,7.5,-350,290,222,-8
+853,2011-12-0410,Cleveland Cavaliers,Charlotte Bobcats,191.5,5.5,-280,240,193,13
+854,2011-12-0410,New Jersey Nets,Philadelphia 76ers,187,4.5,220,-260,195,-19
+855,2011-12-0410,Dallas Mavericks,Sacramento Kings,203,9.5,-600,450,210,10
+856,2011-12-0410,Chicago Bulls,New York Knicks,185.5,9,-300,250,184,12
+857,2011-12-0411,Toronto Raptors,Philadelphia 76ers,180,3.5,165,-190,168,-18
+858,2011-12-0411,Cleveland Cavaliers,Indiana Pacers,194,7.5,400,-500,202,-6
+859,2011-12-0411,Boston Celtics,Atlanta Hawks,180,3.5,-140,120,174,2
+860,2011-12-0411,Milwaukee Bucks,New York Knicks,201,4,-175,155,218,-4
+861,2011-12-0411,Houston Rockets,Utah Jazz,198,5.5,-260,220,194,-12
+862,2011-12-0411,New Orleans Pelicans,Sacramento Kings,197.5,2.5,-140,120,201,9
+863,2011-12-0411,Memphis Grizzlies,Phoenix Suns,195,5.5,-220,180,197,11
+864,2011-12-0411,Oklahoma City Thunder,Los Angeles Clippers,197.5,8,-360,300,198,-2
+865,2011-12-0411,San Antonio Spurs,Los Angeles Lakers,201.5,9.5,-600,450,182,-14
+866,2011-12-0411,Denver Nuggets,Minnesota Timberwolves,214.5,8.5,-450,350,220,6
+867,2011-12-0411,Portland Trail Blazers,Golden State Warriors,197.5,4,-175,155,228,8
+868,2011-12-0412,Charlotte Bobcats,Detroit Pistons,187,5,190,-230,194,-24
+869,2011-12-0412,Chicago Bulls,Miami Heat,186.5,2,-140,120,182,10
+870,2011-12-0412,Minnesota Timberwolves,Los Angeles Clippers,196,5,310,-380,177,-13
+871,2011-12-0412,San Antonio Spurs,Memphis Grizzlies,198,6,-240,200,204,10
+872,2011-12-0412,Golden State Warriors,Dallas Mavericks,195,6,235,-275,215,-9
+873,2011-12-0413,Indiana Pacers,Cleveland Cavaliers,193.5,12,-900,650,185,19
+874,2011-12-0413,Orlando Magic,Atlanta Hawks,181,1,120,-140,190,-28
+875,2011-12-0413,Toronto Raptors,Boston Celtics,178,6,300,-360,163,5
+876,2011-12-0413,Philadelphia 76ers,New Jersey Nets,188.5,11,-800,600,184,-6
+877,2011-12-0413,New York Knicks,Washington Wizards,197,10.5,-730,530,168,38
+878,2011-12-0413,Miami Heat,Charlotte Bobcats,193.5,16,-6000,2750,187,23
+879,2011-12-0413,Houston Rockets,Phoenix Suns,199,4,-175,155,217,-7
+880,2011-12-0413,Oklahoma City Thunder,Sacramento Kings,213.5,14,-1600,1075,204,26
+881,2011-12-0413,Detroit Pistons,Milwaukee Bucks,201,4.5,175,-210,210,-16
+882,2011-12-0413,New Orleans Pelicans,Utah Jazz,192.5,4.5,155,-175,181,11
+883,2011-12-0413,Portland Trail Blazers,Dallas Mavericks,191,2,160,-180,191,-3
+884,2011-12-0413,Los Angeles Lakers,Denver Nuggets,201,4,-170,150,200,6
+885,2011-12-0414,Los Angeles Clippers,Golden State Warriors,196,10,-900,650,216,8
+886,2011-12-0414,Washington Wizards,Cleveland Cavaliers,196.5,4,-230,190,187,-9
+887,2011-12-0414,New Jersey Nets,Boston Celtics,184.5,7,260,-320,176,-12
+888,2011-12-0414,Memphis Grizzlies,Utah Jazz,192,8,-500,400,201,5
+889,2011-12-0414,Minnesota Timberwolves,Oklahoma City Thunder,204.5,10.5,650,-900,225,-5
+890,2011-12-0414,Milwaukee Bucks,Indiana Pacers,206.5,3.5,-150,130,204,-6
+891,2011-12-0414,San Antonio Spurs,Phoenix Suns,208.5,8.5,-420,330,196,14
+892,2011-12-0415,New York Knicks,Miami Heat,190.5,3,130,-150,178,-8
+893,2011-12-0415,Los Angeles Lakers,Dallas Mavericks,190.5,2,-130,110,220,4
+894,2011-12-0415,Atlanta Hawks,Toronto Raptors,184.5,8.5,-600,450,188,-16
+895,2011-12-0415,Detroit Pistons,Chicago Bulls,184,8,435,-575,194,-6
+896,2011-12-0415,Cleveland Cavaliers,Orlando Magic,190.5,5.5,230,-270,184,-16
+897,2011-12-0415,Charlotte Bobcats,Boston Celtics,183.5,8.5,240,-280,176,-12
+898,2011-12-0415,Sacramento Kings,Portland Trail Blazers,207.5,2.5,-145,125,207,1
+899,2011-12-0415,New Orleans Pelicans,Memphis Grizzlies,182,4,170,-200,163,13
+900,2011-12-0415,Denver Nuggets,Houston Rockets,207.5,4.5,-155,135,187,15
+901,2011-12-0416,Charlotte Bobcats,New Orleans Pelicans,185,4.5,230,-270,142,-8
+902,2011-12-0416,Indiana Pacers,Minnesota Timberwolves,198.5,10,-750,550,199,23
+903,2011-12-0416,Orlando Magic,Philadelphia 76ers,181,2.5,230,-270,213,13
+904,2011-12-0416,Toronto Raptors,Atlanta Hawks,182.5,4.5,200,-240,196,-22
+905,2011-12-0416,New Jersey Nets,Miami Heat,192,8.5,400,-500,199,-3
+906,2011-12-0416,Chicago Bulls,Washington Wizards,189.5,13.5,-950,675,171,-3
+907,2011-12-0416,Houston Rockets,Denver Nuggets,208.5,4,-180,160,207,-3
+908,2011-12-0416,Phoenix Suns,Portland Trail Blazers,200,9,-800,600,232,18
+909,2011-12-0416,Utah Jazz,Dallas Mavericks,192.5,3.5,-170,150,244,2
+910,2011-12-0416,Golden State Warriors,San Antonio Spurs,209.5,10.5,450,-600,219,-21
+911,2011-12-0416,Los Angeles Clippers,Oklahoma City Thunder,198,2.5,135,-155,169,15
+912,2011-12-0417,Philadelphia 76ers,Indiana Pacers,184.5,3.5,-155,135,199,-5
+913,2011-12-0417,Detroit Pistons,Cleveland Cavaliers,189.5,6.5,-320,260,193,39
+914,2011-12-0417,Minnesota Timberwolves,Memphis Grizzlies,194,7,390,-490,175,-7
+915,2011-12-0417,New York Knicks,Boston Celtics,182,3,-155,135,228,8
+916,2011-12-0417,Los Angeles Lakers,San Antonio Spurs,200,3,125,-145,203,-21
+917,2011-12-0418,Charlotte Bobcats,Chicago Bulls,180,12,385,-450,168,-32
+918,2011-12-0418,Washington Wizards,Milwaukee Bucks,204.5,8.5,330,-420,233,9
+919,2011-12-0418,Cleveland Cavaliers,Philadelphia 76ers,184.5,7.5,380,-480,190,-16
+920,2011-12-0418,Atlanta Hawks,Detroit Pistons,189,10,-520,410,200,32
+921,2011-12-0418,New Jersey Nets,New York Knicks,192,7.5,320,-400,199,-9
+922,2011-12-0418,Miami Heat,Toronto Raptors,188.5,11.5,-600,450,168,24
+923,2011-12-0418,Memphis Grizzlies,New Orleans Pelicans,181,8.5,-550,425,194,12
+924,2011-12-0418,Boston Celtics,Orlando Magic,179,4.5,-200,170,200,4
+925,2011-12-0418,Dallas Mavericks,Houston Rockets,192,5,-200,170,227,7
+926,2011-12-0418,Denver Nuggets,Los Angeles Clippers,202,2.5,-155,135,202,-6
+927,2011-12-0418,Phoenix Suns,Oklahoma City Thunder,207,3.5,155,-175,206,-12
+928,2011-12-0418,Sacramento Kings,San Antonio Spurs,213,3,175,-210,229,-25
+929,2011-12-0418,Portland Trail Blazers,Utah Jazz,198,3.5,175,-210,203,-21
+930,2011-12-0418,Golden State Warriors,Los Angeles Lakers,205,6.5,255,-310,186,-12
+931,2011-12-0419,Indiana Pacers,Milwaukee Bucks,205,5,-240,200,227,9
+932,2011-12-0419,Detroit Pistons,Minnesota Timberwolves,196,5.5,-210,175,171,-11
+933,2011-12-0419,New Orleans Pelicans,Houston Rockets,198.5,3,210,-250,204,6
+934,2011-12-0419,Miami Heat,Chicago Bulls,183,5,-280,240,155,11
+935,2011-12-0419,Phoenix Suns,Los Angeles Clippers,198.5,2,-130,110,183,3
+936,2011-12-0420,Charlotte Bobcats,Memphis Grizzlies,182,12,1300,-2200,165,-5
+937,2011-12-0420,Atlanta Hawks,Boston Celtics,180,6.5,-650,475,189,5
+938,2011-12-0420,Cleveland Cavaliers,New York Knicks,195,8.5,475,-650,188,8
+939,2011-12-0420,Dallas Mavericks,Golden State Warriors,200.5,12,-975,685,198,10
+940,2011-12-0420,San Antonio Spurs,Los Angeles Lakers,202.5,6,-260,220,218,24
+941,2011-12-0420,Sacramento Kings,Oklahoma City Thunder,213,9.5,460,-620,195,-11
+942,2011-12-0421,Phoenix Suns,Denver Nuggets,210.5,4.5,-180,160,225,-11
+943,2011-12-0421,Indiana Pacers,Philadelphia 76ers,188,5,-190,165,215,-3
+944,2011-12-0421,Miami Heat,Washington Wizards,160,5,-600,450,170,-2
+945,2011-12-0421,Chicago Bulls,Dallas Mavericks,160,5,-380,310,176,10
+946,2011-12-0421,Memphis Grizzlies,Portland Trail Blazers,160,5,-1100,816,182,4
+947,2011-12-0421,Houston Rockets,Golden State Warriors,203.5,12.5,-3400,1750,195,3
+948,2011-12-0421,Milwaukee Bucks,New Jersey Nets,160,5,-550,425,201,11
+949,2011-12-0421,Utah Jazz,Orlando Magic,191.5,9,-500,400,224,10
+950,2011-12-0422,Atlanta Hawks,New York Knicks,191,3.5,-145,125,225,-1
+951,2011-12-0422,Los Angeles Lakers,Oklahoma City Thunder,200,1,-105,-115,220,8
+952,2011-12-0422,Charlotte Bobcats,Sacramento Kings,197,5,160,-180,202,-26
+953,2011-12-0422,Detroit Pistons,Toronto Raptors,186,5,-190,165,149,3
+954,2011-12-0422,Miami Heat,Houston Rockets,191,6.5,-215,175,185,9
+955,2011-12-0422,San Antonio Spurs,Cleveland Cavaliers,203.5,14.5,-3320,1520,212,16
+956,2011-12-0422,Minnesota Timberwolves,Golden State Warriors,205.5,0,-475,375,181,-5
+957,2011-12-0422,Denver Nuggets,Orlando Magic,202.5,9,-730,505,175,27
+958,2011-12-0422,Los Angeles Clippers,New Orleans Pelicans,183.5,10,-680,480,205,9
+959,2011-12-0423,Indiana Pacers,Detroit Pistons,190,7,-320,260,200,6
+960,2011-12-0423,Washington Wizards,Charlotte Bobcats,190.5,9,-650,475,174,28
+961,2011-12-0423,New Jersey Nets,Philadelphia 76ers,187.5,9,400,-500,192,-18
+962,2011-12-0423,Memphis Grizzlies,Cleveland Cavaliers,191,13,-1308,933,210,8
+963,2011-12-0423,Milwaukee Bucks,Toronto Raptors,200,10,-550,425,178,6
+964,2011-12-0423,San Antonio Spurs,Portland Trail Blazers,208,13.5,-2700,1800,213,35
+965,2011-12-0424,Atlanta Hawks,Los Angeles Clippers,192.5,1,-130,110,211,7
+966,2011-12-0424,Oklahoma City Thunder,Sacramento Kings,210,8.5,-650,475,228,8
+967,2011-12-0424,Boston Celtics,Miami Heat,182,6,-290,245,144,12
+968,2011-12-0424,Utah Jazz,Phoenix Suns,160,5,-210,175,188,12
+969,2011-12-0424,Golden State Warriors,New Orleans Pelicans,192,1.5,120,-140,164,-2
+970,2011-12-0425,Indiana Pacers,Chicago Bulls,189,2.5,125,-145,179,-5
+971,2011-12-0425,Cleveland Cavaliers,Washington Wizards,196,2,125,-145,181,-11
+972,2011-12-0425,Orlando Magic,Charlotte Bobcats,186,13.5,-2000,1200,197,7
+973,2011-12-0425,Oklahoma City Thunder,Denver Nuggets,212,2.5,110,-130,207,-5
+974,2011-12-0425,New York Knicks,Los Angeles Clippers,193,2.5,-220,180,192,6
+975,2011-12-0425,Milwaukee Bucks,Philadelphia 76ers,197,6.5,-360,300,175,-5
+976,2011-12-0425,Phoenix Suns,San Antonio Spurs,203,4,-150,130,216,-4
+977,2011-12-0426,Atlanta Hawks,Dallas Mavericks,194.5,4.5,-230,190,195,17
+978,2011-12-0426,Chicago Bulls,Cleveland Cavaliers,186.5,12.5,-3700,1750,182,32
+979,2011-12-0426,Houston Rockets,New Orleans Pelicans,186.5,6,-230,190,161,7
+980,2011-12-0426,Detroit Pistons,Philadelphia 76ers,183.5,7.5,-450,350,194,22
+981,2011-12-0426,Memphis Grizzlies,Orlando Magic,186,14,-4000,1900,164,12
+982,2011-12-0426,Charlotte Bobcats,New York Knicks,189,4,180,-220,188,-20
+983,2011-12-0426,Washington Wizards,Miami Heat,186,5.5,-320,260,174,34
+984,2011-12-0426,Boston Celtics,Milwaukee Bucks,192,9,-500,400,161,13
+985,2011-12-0426,Toronto Raptors,New Jersey Nets,185,6,-320,260,165,31
+986,2011-12-0426,Minnesota Timberwolves,Denver Nuggets,209,6.5,300,-360,233,-29
+987,2011-12-0426,Utah Jazz,Portland Trail Blazers,197,6,-330,270,190,2
+988,2011-12-0426,Sacramento Kings,Los Angeles Lakers,203,3.5,-290,245,209,17
+989,2011-12-0426,Golden State Warriors,San Antonio Spurs,207,5,210,-250,208,-6
+990,2011-12-0428,Chicago Bulls,Philadelphia 76ers,175.5,9.5,-600,450,194,12
+991,2011-12-0428,Miami Heat,New York Knicks,187,8,-600,450,167,33
+992,2011-12-0428,Indiana Pacers,Orlando Magic,191,8,-650,475,158,-4
+993,2011-12-0428,Oklahoma City Thunder,Dallas Mavericks,194,7.5,-430,335,197,1
+994,2011-12-0429,San Antonio Spurs,Utah Jazz,207,9,-950,675,197,15
+995,2011-12-0429,Los Angeles Lakers,Denver Nuggets,202.5,8,-220,180,191,15
+996,2011-12-0429,Atlanta Hawks,Boston Celtics,180,1,-110,100,157,9
+997,2011-12-0429,Memphis Grizzlies,Los Angeles Clippers,185,4,-200,170,197,-1
+998,2011-12-0430,Miami Heat,New York Knicks,185,9.5,-700,500,198,10
+999,2011-12-0430,Indiana Pacers,Orlando Magic,187.5,8.5,-600,450,171,15
+1000,2011-12-0430,Oklahoma City Thunder,Dallas Mavericks,196,6.5,-280,240,201,3
+1001,2011-12-0501,Atlanta Hawks,Boston Celtics,174,3.5,-210,175,167,-7
+1002,2011-12-0501,Chicago Bulls,Philadelphia 76ers,176,5.5,-290,245,201,-17
+1003,2011-12-0501,Los Angeles Lakers,Denver Nuggets,199.5,5,-270,230,204,4
+1004,2011-12-0502,San Antonio Spurs,Utah Jazz,204.5,11,-1010,770,197,31
+1005,2011-12-0502,Orlando Magic,Indiana Pacers,183,3.5,140,-160,171,-23
+1006,2011-12-0502,Memphis Grizzlies,Los Angeles Clippers,186.5,5,-300,250,203,7
+1007,2011-12-0503,New York Knicks,Miami Heat,186.5,5,210,-250,157,-17
+1008,2011-12-0503,Dallas Mavericks,Oklahoma City Thunder,196,2,-160,140,174,-16
+1009,2011-12-0504,Boston Celtics,Atlanta Hawks,174.5,7.5,-450,350,174,6
+1010,2011-12-0504,Philadelphia 76ers,Chicago Bulls,178.5,1.5,-125,105,153,5
+1011,2011-12-0504,Denver Nuggets,Los Angeles Lakers,204,4,-165,145,183,15
+1012,2011-12-0505,Orlando Magic,Indiana Pacers,181.5,4.5,175,-210,200,-2
+1013,2011-12-0505,Los Angeles Clippers,Memphis Grizzlies,187,3,-155,135,173,1
+1014,2011-12-0505,Dallas Mavericks,Oklahoma City Thunder,192.5,1,110,-130,200,-6
+1015,2011-12-0505,Utah Jazz,San Antonio Spurs,202,5.5,210,-250,192,-12
+1016,2011-12-0506,Philadelphia 76ers,Chicago Bulls,174,2.5,-165,145,171,7
+1017,2011-12-0506,New York Knicks,Miami Heat,183,8,310,-380,176,2
+1018,2011-12-0506,Boston Celtics,Atlanta Hawks,172,5,-280,240,180,22
+1019,2011-12-0506,Denver Nuggets,Los Angeles Lakers,201,2,-130,110,180,-4
+1020,2011-12-0507,Utah Jazz,San Antonio Spurs,198.5,8,305,-370,168,-6
+1021,2011-12-0507,Los Angeles Clippers,Memphis Grizzlies,182.5,2,-125,105,198,4
+1022,2011-12-0508,Indiana Pacers,Orlando Magic,179,10,-750,550,192,18
+1023,2011-12-0508,Atlanta Hawks,Boston Celtics,174,1.5,-130,110,173,1
+1024,2011-12-0508,Chicago Bulls,Philadelphia 76ers,171.5,4.5,-210,175,146,8
+1025,2011-12-0508,Los Angeles Lakers,Denver Nuggets,199.5,6,-320,260,201,-3
+1026,2011-12-0509,Miami Heat,New York Knicks,183.5,11,-1650,1125,200,12
+1027,2011-12-0509,Memphis Grizzlies,Los Angeles Clippers,183.5,6,-300,250,172,12
+1028,2011-12-0510,Philadelphia 76ers,Chicago Bulls,170,3.5,-165,145,157,1
+1029,2011-12-0510,Boston Celtics,Atlanta Hawks,175,6,-370,305,163,3
+1030,2011-12-0510,Denver Nuggets,Los Angeles Lakers,199,1.5,-150,130,209,17
+1031,2011-12-0511,Los Angeles Clippers,Memphis Grizzlies,180.5,0,120,-140,178,-2
+1032,2011-12-0512,Los Angeles Lakers,Denver Nuggets,170.5,6,-270,230,183,9
+1033,2011-12-0512,Boston Celtics,Philadelphia 76ers,198.5,6,-290,245,183,1
+1034,2011-12-0513,Memphis Grizzlies,Los Angeles Clippers,189.5,8.5,-500,400,154,-10
+1035,2011-12-0513,Miami Heat,Indiana Pacers,178.5,7,-400,320,181,9
+1036,2011-12-0514,Oklahoma City Thunder,Los Angeles Lakers,193,6,-390,315,209,29
+1037,2011-12-0514,Boston Celtics,Philadelphia 76ers,174,5,-210,175,163,-1
+1038,2011-12-0515,San Antonio Spurs,Los Angeles Clippers,191.5,11,-900,704,200,16
+1039,2011-12-0515,Miami Heat,Indiana Pacers,185.5,7.5,-320,260,153,-3
+1040,2011-12-0516,Philadelphia 76ers,Boston Celtics,172.5,2.5,-130,110,198,-16
+1041,2011-12-0516,Oklahoma City Thunder,Los Angeles Lakers,195.5,7.5,-420,330,152,2
+1042,2011-12-0517,Indiana Pacers,Miami Heat,182,1,120,-140,169,19
+1043,2011-12-0517,San Antonio Spurs,Los Angeles Clippers,194,11.5,-800,600,193,17
+1044,2011-12-0518,Philadelphia 76ers,Boston Celtics,172.5,2,-130,110,175,9
+1045,2011-12-0518,Los Angeles Lakers,Oklahoma City Thunder,194,2.5,-150,130,195,3
+1046,2011-12-0519,Los Angeles Clippers,San Antonio Spurs,193,5,180,-220,182,-10
+1047,2011-12-0519,Los Angeles Lakers,Oklahoma City Thunder,191,2.5,115,-135,203,-3
+1048,2011-12-0520,Indiana Pacers,Miami Heat,179,1,110,-130,194,-8
+1049,2011-12-0520,Los Angeles Clippers,San Antonio Spurs,194,5,290,-350,201,-3
+1050,2011-12-0521,Boston Celtics,Philadelphia 76ers,174,5.5,-250,210,186,16
+1051,2011-12-0521,Oklahoma City Thunder,Los Angeles Lakers,191.5,7.5,-350,290,196,16
+1052,2011-12-0522,Miami Heat,Indiana Pacers,180.5,6.5,-370,290,198,32
+1053,2011-12-0523,Philadelphia 76ers,Boston Celtics,174,1.5,-120,100,157,7
+1054,2011-12-0524,Indiana Pacers,Miami Heat,182,3,120,-140,198,-12
+1055,2011-12-0526,Boston Celtics,Philadelphia 76ers,171.5,5.5,-310,260,160,10
+1056,2011-12-0527,San Antonio Spurs,Oklahoma City Thunder,201,5,-240,200,199,3
+1057,2011-12-0528,Miami Heat,Boston Celtics,177.5,7.5,-480,380,172,14
+1058,2011-12-0529,San Antonio Spurs,Oklahoma City Thunder,202,4.5,-200,170,231,9
+1059,2011-12-0530,Miami Heat,Boston Celtics,177.5,7.5,-410,325,226,4
+1060,2011-12-0531,Oklahoma City Thunder,San Antonio Spurs,206.5,3,-190,165,184,20
+1061,2011-12-0601,Boston Celtics,Miami Heat,179,1.5,-140,120,192,10
+1062,2011-12-0602,Oklahoma City Thunder,San Antonio Spurs,202.5,4,-180,160,212,6
+1063,2011-12-0603,Boston Celtics,Miami Heat,182,1.5,110,-130,184,2
+1064,2011-12-0604,San Antonio Spurs,Oklahoma City Thunder,203.5,4.5,-210,175,211,-5
+1065,2011-12-0605,Miami Heat,Boston Celtics,180,8,-420,330,184,-4
+1066,2011-12-0606,Oklahoma City Thunder,San Antonio Spurs,201.5,3.5,-220,180,206,8
+1067,2011-12-0607,Boston Celtics,Miami Heat,179.5,1.5,110,-130,177,-19
+1068,2011-12-0609,Miami Heat,Boston Celtics,180,7.5,-440,340,189,13
+1069,2011-12-0612,Oklahoma City Thunder,Miami Heat,192,4.5,-230,190,199,11
+1070,2011-12-0614,Oklahoma City Thunder,Miami Heat,195,4.5,-220,180,196,-4
+1071,2011-12-0617,Miami Heat,Oklahoma City Thunder,195,5,-190,165,176,6
+1072,2011-12-0619,Miami Heat,Oklahoma City Thunder,192,3.5,-140,120,202,6
+1073,2011-12-0621,Miami Heat,Oklahoma City Thunder,193,3.5,-160,140,227,15

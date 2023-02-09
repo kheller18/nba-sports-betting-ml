@@ -23,7 +23,7 @@
 
 ## 1. Installation
 
-  If you would like to clone the repository, type "git clone https://github.com/kheller18/seattle-crime-analysis.git".
+  If you would like to clone the repository, type "git clone https://github.com/kheller18/nba-sports-betting-ml.git".
   In the terminal, with the conda dev environment activated, install the following packages and dependencies before running the crime analysis application. To understand how to install these, refer to the [Usage](#2-usage)
 
   * [csv](https://docs.python.org/3/library/csv.html) - Used to store all of our SPD data
@@ -64,7 +64,7 @@
 
 	MIT License
 
-  Copyright (c) 2022 Keenan Heller | Olga Ortega | Audell Sabeti | Ariana Moreno | Rachel Hodson
+  Copyright (c) 2023 Keenan Heller | Olga Ortega | Audell Sabeti | Ariana Moreno | Rachel Hodson
 
   Permission is hereby granted, free of charge, to any person obtaining a copy
   of this software and associated documentation files (the "Software"), to deal

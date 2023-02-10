@@ -2,10 +2,12 @@
 
 ![license badge](https://shields.io/badge/license-mit-blue)
 
+---
 
 ## Description
+This is a JupyterLab Notebook written in Python 3.7. This notebook uses state-of-the-art machine learning techniques which uses deep learning neural networks in order to analyze and predict the outcomes of National Basketball Association (NBA) games. The data used in this notebook includes statistics on score spread and win-loss for all the thirty (30) NBA teams. We plan to use multiclassification strategies to predict whether the home team of any given game will win that game and to predict the score spread of any given game. Our goal is 40% accuracy in our finalized model. 
 
-
+---
 
 ## Table of Contents
 
@@ -20,6 +22,7 @@
   - [6. Deployment](#6-deployment)
   - [7. Contact](#7-contact)
 
+---
 
 ## 1. Installation
 
@@ -43,6 +46,8 @@
   * [Voilà](https://github.com/voila-dashboards/voila) - This will allow us to view our crime analysis on the web browser.
 
 
+---
+
 ## 2. Usage
 
   After cloning the repository locally, you'll need to have the packages listed in [Installation](#1-installation) installed on your machine. To do so, you'll need to activate your conda dev environment and running the following commands:
@@ -59,6 +64,7 @@
 
   After all of these are installed, please refer to the [Deployment](#6-deployment) section for instructions on how to view or edit the notebook.
 
+---
 
 ## 3. License
 
@@ -85,6 +91,7 @@
   SOFTWARE.
 
 
+---
 
 ## 4. Contributing
 
@@ -94,17 +101,20 @@
   + [Ariana Moreno](https://github.com/arianamoreno13)
   + [Rachel Hodson](https://github.com/rachelannhodson)
 
+---
 
 ## 5. Tests
 
   + There are currently no tests associated with this project.
 
+---
 
 ## 6. Deployment
   + There is currently no live deployment of this notebook on a common server, but the user has the ability to run this notebook locally on their machine via two different ways:
     + `Jupyter Lab`: Navigate to the root directory and type "jupyter lab main.ipynb"
     + `Voilà`: Navigate to the root directory and type "voila main.ipynb"
 
+---
 
 ## 7. Contact
 
@@ -113,4 +123,3 @@
   + [Audell's LinkedIn](https://www.linkedin.com/in/audell-sabeti-38375a1b2)
   + [Ariana's LinkedIn](www.linkedin.com/in/ariana-moreno-52b2b7211)
   + [Rachel's LinkedIn](https://www.linkedin.com/in/rachelannhodson/)
-

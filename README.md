@@ -177,8 +177,8 @@ Based on the validation split versus accuracy plot, it is evident that plot 1 ou
 
 
 ## 3. License
-
-	MIT License
+  ```
+  MIT License
 
   Copyright (c) 2023 Keenan Heller | Olga Ortega | Audell Sabeti | Ariana Moreno | Rachel Hodson
 
@@ -199,6 +199,7 @@ Based on the validation split versus accuracy plot, it is evident that plot 1 ou
   LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
   OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
   SOFTWARE.
+  ```
 
 
 

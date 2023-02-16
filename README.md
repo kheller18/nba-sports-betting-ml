@@ -8,11 +8,12 @@
 This AI system utilizes machine learning techniques to make predictions about NBA game outcomes, including identifying potential winners and predicting whether games will have over/under scores. The system analyzes data from all teams in the NBA dating back to the 2007-08 season, and combines this information with odds for current games to generate predictions using a neural network model. The system achieves an accuracy rate of approximately 57% for money line bets and approximately 49% for under/over bets. In addition to identifying winners and losers, the system also provides insight into the expected value of money line bets for individual teams.
 
 
-![accuracy vs loss with 10 seasons of data from 2011 to 2021 and Hidden Layers: 3](Images\ou_nn_1_acc_loss.png)
+accuracy vs loss with 10 seasons of data from 2011 to 2021 and Hidden Layers: 3
+<img src="Images\ou_nn_1_acc_loss.png" width="600" height="400">
 
 
-![accuracy vs validation accuracy  with 10 seasons of data from 2011 to 2021 and Hidden Layers: 3](Images\ou_nn_1_acc_val.png)
-
+accuracy vs validation accuracy  with 10 seasons of data from 2011 to 2021 and Hidden Layers: 3
+<img src="Images\ou_nn_1_acc_val.png" width="600" height="400">
 
 The 'accuracy vs loss' graph displays the blue line for accuracy and the orange line for loss, which are both behaving appropriately. The accuracy line is leveling out to 1, while the loss line is leveling out to 0. It is normal to observe a few spikes in the graph.
 
@@ -23,10 +24,12 @@ On the other hand, validation accuracy measures the model's performance on a dat
 As you can see our model does a pretty good job at predicting who will win in the future games. The accuracy and validation accuracy follows each other fairly close. 
 
 
-![accuracy vs loss with 5 seasons of data from 2016-2021 Hidden Layers: 3](Images\ou_nn_2_acc_loss.png)
+accuracy vs loss with 5 seasons of data from 2016-2021 Hidden Layers: 3
+<img src="Images\ou_nn_2_acc_loss.png" width="600" height="400">
 
 
-![accuracy vs validation accuracy with 5 seasons of data from 2016-2021 Hidden Layers: 3](Images\ou_nn_2_acc_val.png)
+accuracy vs validation accuracy with 5 seasons of data from 2016-2021 Hidden Layers: 3
+<img src="Images\ou_nn_2_acc_val.png" width="600" height="400">
 
 It's not surprising to see that the second model, which uses less data, doesn't perform as well as the first model. This is because having more data usually allows the model to learn more patterns and generalize better to new data.
 
@@ -35,10 +38,12 @@ When a model is trained on a smaller dataset, it is more likely to overfit to th
 Though the preformance isn't as good as the first model this model is still working well with the data it has. 
 
 
-![accuracy vs loss with 10 seasons of data from 2011 to 2021 Hidden Layers: 4](Images\ou_nn_3_acc_loss.png)
+accuracy vs loss with 10 seasons of data from 2011 to 2021 Hidden Layers: 4
+<img src="Images\ou_nn_3_acc_loss.png" width="600" height="400">
 
 
-![accuracy vs validation accuracy with 10 seasons of data from 2011 to 2021 Hidden Layers: 4](Images\ou_nn_3_acc_val.png)
+accuracy vs validation accuracy with 10 seasons of data from 2011 to 2021 Hidden Layers: 4
+<img src="Images\ou_nn_3_acc_val.png" width="600" height="400">
 
 The third model has a very similar out come as the first model. The first model had a loss of .0796 and an accuracy of .4771 while the third model has a loss of .0990 and an accuracy of .4787 . the accuracy and validation accuracy are acting accurate. 
 
@@ -48,26 +53,33 @@ The fact that the accuracy and validation accuracy are both high and close to ea
 
 Overall, it's great that the third model is showing promising results, and it may be worth further exploring its performance on new data or tweaking some of its parameters to see if it can be improved even further.
 
-![accuracy vs loss with 5 seasons of data from 2016 to 2021 Hidden Layers: 4](Images\ou_nn_4_acc_loss.png)
+accuracy vs loss with 5 seasons of data from 2016 to 2021 Hidden Layers: 4
+<img src="Images\ou_nn_4_acc_loss.png" width="600" height="400">
 
 
-![accuracy vs validation accuracy with 5 seasons of data from 2016 to 2021 Hidden Layers: 4](Images\ou_nn_4_acc_val.png)
+
+accuracy vs validation accuracy with 5 seasons of data from 2016 to 2021 Hidden Layers: 4
+<img src="Images\ou_nn_4_acc_val.png" width="600" height="400">
 
 
 It's great to hear that all your models performed well! While model 4 may not have performed as well as model 1 and model 3 in terms of loss, its loss is still quite low and may be considered acceptable for the task at hand. 
 
 Additionally, it's worth noting that sometimes a model with a slightly higher loss may still perform better on unseen data, as it may have learned to generalize better. 
 
-![validation split vs accuracy with 10 seasons of data from 2011 to 2021 and Hidden Layers: 3](Images\Plot_Part_1.png)
+validation split vs accuracy with 10 seasons of data from 2011 to 2021 and Hidden Layers: 3
+<img src="Images\Plot_Part_1.png" width="600" height="400">
 
 
-![validation split vs accuracy with 5 seasons of data from 2016-2021 Hidden Layers: 3](Images\Plot_Part_2.png)
+validation split vs accuracy with 5 seasons of data from 2016-2021 Hidden Layers: 3
+<img src="Images\Plot_Part_2.png" width="600" height="400">
 
 
-![validation split vs accuracy with 10 seasons of data from 2011 to 2021 Hidden Layers: 4](Images\Plot_Part_3.png)
+validation split vs accuracy with 10 seasons of data from 2011 to 2021 Hidden Layers: 4
+<img src="Images\Plot_Part_3.png" width="600" height="400">
 
 
-![validation split vs accuracy with 5 seasons of data from 2016 to 2021 Hidden Layers: 4](Images\Plot_Part_4.png)
+validation split vs accuracy with 5 seasons of data from 2016 to 2021 Hidden Layers: 4
+<img src="Images\Plot_Part_4.png" width="600" height="400">
 
 Based on the validation split versus accuracy plot, it is evident that plot 1 outperforms the other plots with its exceptional performance. Plot 1 demonstrates a close alignment between validation accuracy and the accuracy line. While plot 2 has some initial overfitting, it shows a good recovery. Plot 3 initially overfits, followed by a recovery, and then starts to underfit. Plot 4 also has some initial overfitting but shows a good recovery. However, overall, plot 1 emerges as the winner in this comparison.
 

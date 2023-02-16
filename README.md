@@ -95,19 +95,19 @@ It's great to hear that all your models performed well! While model 4 may not ha
 Additionally, it's worth noting that sometimes a model with a slightly higher loss may still perform better on unseen data, as it may have learned to generalize better.
 
 ## Money Line Model
-### Model 1 validation split & accuracy
+### Model 1 Validation Split & Accuracy
 
 <img src="Images\Plot_Part_1.png" width="600" height="400">
 
-### Model 2 validation split & accuracy
+### Model 2 Validation Split & Accuracy
 <img src="Images\Plot_Part_2.png" width="600" height="400">
 
 
-### Model 3 validation split & accuracy
+### Model 3 Validation Split & Accuracy
 <img src="Images\Plot_Part_3.png" width="600" height="400">
 
 
-### Model 4 validation split & accuracy
+### Model 4 Validation Split & Accuracy
 <img src="Images\Plot_Part_4.png" width="600" height="400">
 
 Based on the validation split versus accuracy plot, it is evident that plot 1 outperforms the other plots with its exceptional performance. Plot 1 demonstrates a close alignment between validation accuracy and the accuracy line. While plot 2 has some initial overfitting, it shows a good recovery. Plot 3 initially overfits, followed by a recovery, and then starts to underfit. Plot 4 also has some initial overfitting but shows a good recovery. However, overall, plot 1 emerges as the winner in this comparison.
@@ -124,10 +124,10 @@ Based on the validation split versus accuracy plot, it is evident that plot 1 ou
     - [Model 3 Accuracy \& Loss Plots](#model-3-accuracy--loss-plots)
     - [Model 4 Accuracy \& Loss Plots](#model-4-accuracy--loss-plots)
   - [Money Line Model](#money-line-model)
-    - [Model 1 validation split \& accuracy](#model-1-validation-split--accuracy)
-    - [Model 2 validation split \& accuracy](#model-2-validation-split--accuracy)
-    - [Model 3 validation split \& accuracy](#model-3-validation-split--accuracy)
-    - [Model 4 validation split \& accuracy](#model-4-validation-split--accuracy)
+    - [Model 1 Validation Split \& Accuracy](#model-1-validation-split--accuracy)
+    - [Model 2 Validation Split \& Accuracy](#model-2-validation-split--accuracy)
+    - [Model 3 Validation Split \& Accuracy](#model-3-validation-split--accuracy)
+    - [Model 4 Validation Split \& Accuracy](#model-4-validation-split--accuracy)
   - [Table of Contents](#table-of-contents)
   - [1. Installation](#1-installation)
   - [2. Usage](#2-usage)
@@ -155,6 +155,10 @@ Based on the validation split versus accuracy plot, it is evident that plot 1 ou
 
   * [Keras](https://keras.io/about/) - Keras is a popular deep learning framework that serves as a high-level API for TensorFlow
 
+  * [Scikit-Learn](https://scikit-learn.org/stable/index.html) - Tools for data predictions and analysis
+
+  * [NumPy](https://numpy.org/doc/stable/index.html) - Package for scientific computing
+
 
 
 ## 2. Usage
@@ -165,6 +169,8 @@ Based on the validation split versus accuracy plot, it is evident that plot 1 ou
       pip install pandas
       pip install jupyterlab
       pip install --upgrade tensorflow
+      pip install -U scikit-learn
+      pip install numpy
       ```
 
   After all of these are installed, please refer to the [Deployment](#6-deployment) section for instructions on how to view or edit the notebook.
@@ -212,7 +218,8 @@ Based on the validation split versus accuracy plot, it is evident that plot 1 ou
 
 ## 6. Deployment
   + There is currently no live deployment of this notebook on a common server, but the user has the ability to run this notebook locally on their machine via:
-    + `Jupyter Lab`: Navigate to the root directory and type "jupyter lab main.ipynb"
+    + `Jupyter Lab`: Navigate to the root directory and type "jupyter lab main.ipynb" for the Moneyline models and "jupyter lab NN_Over_Under.ipynb" for Over/Under models.
+    + `Google Colab`: 
 
 
 ## 7. Contact

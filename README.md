@@ -2,12 +2,76 @@
 
 ![license badge](https://shields.io/badge/license-mit-blue)
 
----
 
 ## Description
-This is a JupyterLab Notebook written in Python 3.7. This notebook uses state-of-the-art machine learning techniques which uses deep learning neural networks in order to analyze and predict the outcomes of National Basketball Association (NBA) games. The data used in this notebook includes statistics on score spread and win-loss for all the thirty (30) NBA teams. We plan to use multiclassification strategies to predict whether the home team of any given game will win that game and to predict the score spread of any given game. Our goal is 40% accuracy in our finalized model. 
 
----
+This AI system utilizes machine learning techniques to make predictions about NBA game outcomes, including identifying potential winners and predicting whether games will have over/under scores. The system analyzes data from all teams in the NBA dating back to the 2007-08 season, and combines this information with odds for current games to generate predictions using a neural network model. The system achieves an accuracy rate of approximately 57% for money line bets and approximately 49% for under/over bets. In addition to identifying winners and losers, the system also provides insight into the expected value of money line bets for individual teams.
+
+
+![accuracy vs loss with 10 seasons of data from 2011 to 2021 and Hidden Layers: 3](Images\ou_nn_1_acc_loss.png)
+
+
+![accuracy vs validation accuracy  with 10 seasons of data from 2011 to 2021 and Hidden Layers: 3](Images\ou_nn_1_acc_val.png)
+
+
+The 'accuracy vs loss' graph displays the blue line for accuracy and the orange line for loss, which are both behaving appropriately. The accuracy line is leveling out to 1, while the loss line is leveling out to 0. It is normal to observe a few spikes in the graph.
+
+Onto the second graph 'accuracy vs validation accuracy'. Accuracy refers to the model's performance on the training dataset, which is the dataset used to train the model. It measures how well the model fits the training data and is optimized for the training set.
+
+On the other hand, validation accuracy measures the model's performance on a dataset that the model has not seen during training. This dataset is typically used to evaluate the model's ability to generalize to new data, and it is important for determining if the model is overfitting or underfitting.
+
+As you can see our model does a pretty good job at predicting who will win in the future games. The accuracy and validation accuracy follows each other fairly close. 
+
+
+![accuracy vs loss with 5 seasons of data from 2016-2021 Hidden Layers: 3](Images\ou_nn_2_acc_loss.png)
+
+
+![accuracy vs validation accuracy with 5 seasons of data from 2016-2021 Hidden Layers: 3](Images\ou_nn_2_acc_val.png)
+
+It's not surprising to see that the second model, which uses less data, doesn't perform as well as the first model. This is because having more data usually allows the model to learn more patterns and generalize better to new data.
+
+When a model is trained on a smaller dataset, it is more likely to overfit to the training data, meaning it may perform well on the training data but not generalize well to new, unseen data. This is likely why the second model is showing less accuracy and less correlation between the loss and validation accuracy.
+
+Though the preformance isn't as good as the first model this model is still working well with the data it has. 
+
+
+![accuracy vs loss with 10 seasons of data from 2011 to 2021 Hidden Layers: 4](Images\ou_nn_3_acc_loss.png)
+
+
+![accuracy vs validation accuracy with 10 seasons of data from 2011 to 2021 Hidden Layers: 4](Images\ou_nn_3_acc_val.png)
+
+The third model has a very similar out come as the first model. The first model had a loss of .0796 and an accuracy of .4771 while the third model has a loss of .0990 and an accuracy of .4787 . the accuracy and validation accuracy are acting accurate. 
+
+It's great to hear that the third model has a similar outcome to the first model, despite having some differences in the loss and accuracy values. The first model had a loss of (.0796) and an accuracy of (.4771) while the third model has a loss of (.0990) and an accuracy of (.4787). 
+
+The fact that the accuracy and validation accuracy are both high and close to each other indicates that the model is not overfitting to the training data and is able to generalize well to new data. The loss value is also reasonable, as it indicates how well the model is fitting the data.
+
+Overall, it's great that the third model is showing promising results, and it may be worth further exploring its performance on new data or tweaking some of its parameters to see if it can be improved even further.
+
+![accuracy vs loss with 5 seasons of data from 2016 to 2021 Hidden Layers: 4](Images\ou_nn_4_acc_loss.png)
+
+
+![accuracy vs validation accuracy with 5 seasons of data from 2016 to 2021 Hidden Layers: 4](Images\ou_nn_4_acc_val.png)
+
+
+It's great to hear that all your models performed well! While model 4 may not have performed as well as model 1 and model 3 in terms of loss, its loss is still quite low and may be considered acceptable for the task at hand. 
+
+Additionally, it's worth noting that sometimes a model with a slightly higher loss may still perform better on unseen data, as it may have learned to generalize better. 
+
+![validation split vs accuracy with 10 seasons of data from 2011 to 2021 and Hidden Layers: 3](Images\Plot_Part_1.png)
+
+
+![validation split vs accuracy with 5 seasons of data from 2016-2021 Hidden Layers: 3](Images\Plot_Part_2.png)
+
+
+![validation split vs accuracy with 10 seasons of data from 2011 to 2021 Hidden Layers: 4](Images\Plot_Part_3.png)
+
+
+![validation split vs accuracy with 5 seasons of data from 2016 to 2021 Hidden Layers: 4](Images\Plot_Part_4.png)
+
+Based on the validation split versus accuracy plot, it is evident that plot 1 outperforms the other plots with its exceptional performance. Plot 1 demonstrates a close alignment between validation accuracy and the accuracy line. While plot 2 has some initial overfitting, it shows a good recovery. Plot 3 initially overfits, followed by a recovery, and then starts to underfit. Plot 4 also has some initial overfitting but shows a good recovery. However, overall, plot 1 emerges as the winner in this comparison.
+
+
 
 ## Table of Contents
 
@@ -22,31 +86,28 @@ This is a JupyterLab Notebook written in Python 3.7. This notebook uses state-of
   - [6. Deployment](#6-deployment)
   - [7. Contact](#7-contact)
 
----
 
 ## 1. Installation
 
   If you would like to clone the repository, type "git clone https://github.com/kheller18/nba-sports-betting-ml.git".
   In the terminal, with the conda dev environment activated, install the following packages and dependencies before running the crime analysis application. To understand how to install these, refer to the [Usage](#2-usage)
 
-  * [csv](https://docs.python.org/3/library/csv.html) - Used to store all of our SPD data
+  * [csv](https://docs.python.org/3/library/csv.html) - Used to store all of our data
 
   * [Jupyter Lab](https://jupyterlab.readthedocs.io/en/stable/) - *version 3.4.4* - Used to create and share documents that contain live code, equations, visualizations and narrative text.
-
-  * [matplotlib](https://matplotlib.org/) - For the visualization of crime data.
 
   * [pandas](https://pandas.pydata.org/docs/) - For the analysis of crime data.
 
   * [pathlib](https://docs.python.org/3/library/pathlib.html) - *version 1.0.1* - This was used to locate through the directory or file path.
 
-  * [PyVizlot](https://pyviz.org/) -  Python visualization package that provides a single platform for accessing multiple visualization libraries. Our most heavily used library is:
+  * [TensorFlow 2.0](https://www.tensorflow.org/) - An end-to-end machine learning platform
 
-    * [hvplot.pandas](https://hvplot.holoviz.org/user_guide/Introduction.html) - *version 0.7.2* - For the interactive visualization of the crime data.
+  * [Keras](https://keras.io/about/) - Keras is a popular deep learning framework that serves as a high-level API for TensorFlow
 
-  * [Voilà](https://github.com/voila-dashboards/voila) - This will allow us to view our crime analysis on the web browser.
+  
 
+  
 
----
 
 ## 2. Usage
 
@@ -54,17 +115,12 @@ This is a JupyterLab Notebook written in Python 3.7. This notebook uses state-of
 
       ```
       pip install pandas
-      pip install hvplot
       pip install jupyterlab
-      conda install -c pyviz hvplot
-      conda install -c voila
-      conda list nodejs
-
+      pip install --upgrade tensorflow
       ```
 
   After all of these are installed, please refer to the [Deployment](#6-deployment) section for instructions on how to view or edit the notebook.
 
----
 
 ## 3. License
 
@@ -91,7 +147,6 @@ This is a JupyterLab Notebook written in Python 3.7. This notebook uses state-of
   SOFTWARE.
 
 
----
 
 ## 4. Contributing
 
@@ -101,20 +156,16 @@ This is a JupyterLab Notebook written in Python 3.7. This notebook uses state-of
   + [Ariana Moreno](https://github.com/arianamoreno13)
   + [Rachel Hodson](https://github.com/rachelannhodson)
 
----
 
 ## 5. Tests
 
   + There are currently no tests associated with this project.
 
----
 
 ## 6. Deployment
-  + There is currently no live deployment of this notebook on a common server, but the user has the ability to run this notebook locally on their machine via two different ways:
+  + There is currently no live deployment of this notebook on a common server, but the user has the ability to run this notebook locally on their machine via:
     + `Jupyter Lab`: Navigate to the root directory and type "jupyter lab main.ipynb"
-    + `Voilà`: Navigate to the root directory and type "voila main.ipynb"
 
----
 
 ## 7. Contact
 
@@ -123,3 +174,4 @@ This is a JupyterLab Notebook written in Python 3.7. This notebook uses state-of
   + [Audell's LinkedIn](https://www.linkedin.com/in/audell-sabeti-38375a1b2)
   + [Ariana's LinkedIn](www.linkedin.com/in/ariana-moreno-52b2b7211)
   + [Rachel's LinkedIn](https://www.linkedin.com/in/rachelannhodson/)
+

@@ -5,7 +5,7 @@
 
 ## Description
 
-This AI system utilizes machine learning techniques to make predictions about NBA game outcomes, including identifying potential winners and predicting whether games will have over/under scores. The system analyzes data from all teams in the NBA dating back to the 2007-08 season, and combines this information with odds for current games to generate predictions using a neural network model. The system achieves an accuracy rate of approximately 57% for money line bets and approximately 49% for under/over bets. In addition to identifying winners and losers, the system also provides insight into the expected value of money line bets for individual teams.
+This AI system utilizes machine learning techniques to make predictions about NBA game outcomes, including identifying potential winners and predicting whether games will have over/under scores. The system analyzes data from all teams in the NBA dating back to the 2011-12 season, and combines this information with odds for current games to generate predictions using a neural network model. The system achieves an accuracy rate of approximately 57% for money line bets and approximately 49% for under/over bets. In addition to identifying winners and losers, the system also provides insight into the expected value of money line bets for individual teams.
 
 ## Over/Under Model
 ### Model 1 Accuracy & Loss Plots
@@ -49,7 +49,7 @@ It's not surprising to see that the second model, which uses less data, doesn't 
 
 When a model is trained on a smaller dataset, it is more likely to overfit to the training data, meaning it may perform well on the training data but not generalize well to new, unseen data. This is likely why the second model is showing less accuracy and less correlation between the loss and validation accuracy.
 
-Though the preformance isn't as good as the first model this model is still working well with the data it has. 
+Though the preformance isn't as good as the first model this model is still working well with the data it has.
 
 
 ### Model 3 Accuracy & Loss Plots
@@ -66,9 +66,9 @@ Though the preformance isn't as good as the first model this model is still work
 
 <img src="Images\nn_ou_m3_acc_val.png" width="600" height="400">
 
-The third model has a very similar out come as the first model. The first model had a loss of .0796 and an accuracy of .4771 while the third model has a loss of .0990 and an accuracy of .4787 . the accuracy and validation accuracy are acting accurate. 
+The third model has a very similar out come as the first model. The first model had a loss of .0796 and an accuracy of .4771 while the third model has a loss of .0990 and an accuracy of .4787 . the accuracy and validation accuracy are acting accurate.
 
-It's great to hear that the third model has a similar outcome to the first model, despite having some differences in the loss and accuracy values. The first model had a loss of (.0796) and an accuracy of (.4771) while the third model has a loss of (.0990) and an accuracy of (.4787). 
+It's great to hear that the third model has a similar outcome to the first model, despite having some differences in the loss and accuracy values. The first model had a loss of (.0796) and an accuracy of (.4771) while the third model has a loss of (.0990) and an accuracy of (.4787).
 
 The fact that the accuracy and validation accuracy are both high and close to each other indicates that the model is not overfitting to the training data and is able to generalize well to new data. The loss value is also reasonable, as it indicates how well the model is fitting the data.
 
@@ -90,24 +90,24 @@ Overall, it's great that the third model is showing promising results, and it ma
 <img src="Images\nn_ou_m4_acc_val.png" width="600" height="400">
 
 
-It's great to hear that all your models performed well! While model 4 may not have performed as well as model 1 and model 3 in terms of loss, its loss is still quite low and may be considered acceptable for the task at hand. 
+It's great to hear that all your models performed well! While model 4 may not have performed as well as model 1 and model 3 in terms of loss, its loss is still quite low and may be considered acceptable for the task at hand.
 
-Additionally, it's worth noting that sometimes a model with a slightly higher loss may still perform better on unseen data, as it may have learned to generalize better. 
+Additionally, it's worth noting that sometimes a model with a slightly higher loss may still perform better on unseen data, as it may have learned to generalize better.
 
 ## Money Line Model
-### Model 1 validation split & accuracy
+### Model 1 Validation Split & Accuracy
 
 <img src="Images\Plot_Part_1.png" width="600" height="400">
 
-### Model 2 validation split & accuracy
+### Model 2 Validation Split & Accuracy
 <img src="Images\Plot_Part_2.png" width="600" height="400">
 
 
-### Model 3 validation split & accuracy
+### Model 3 Validation Split & Accuracy
 <img src="Images\Plot_Part_3.png" width="600" height="400">
 
 
-### Model 4 validation split & accuracy
+### Model 4 Validation Split & Accuracy
 <img src="Images\Plot_Part_4.png" width="600" height="400">
 
 Based on the validation split versus accuracy plot, it is evident that plot 1 outperforms the other plots with its exceptional performance. Plot 1 demonstrates a close alignment between validation accuracy and the accuracy line. While plot 2 has some initial overfitting, it shows a good recovery. Plot 3 initially overfits, followed by a recovery, and then starts to underfit. Plot 4 also has some initial overfitting but shows a good recovery. However, overall, plot 1 emerges as the winner in this comparison.
@@ -118,6 +118,16 @@ Based on the validation split versus accuracy plot, it is evident that plot 1 ou
 
 - [NBA Sports Betting ML](#nba-sports-betting-ml)
   - [Description](#description)
+  - [Over/Under Model](#overunder-model)
+    - [Model 1 Accuracy \& Loss Plots](#model-1-accuracy--loss-plots)
+    - [Model 2 Accuracy \& Loss Plots](#model-2-accuracy--loss-plots)
+    - [Model 3 Accuracy \& Loss Plots](#model-3-accuracy--loss-plots)
+    - [Model 4 Accuracy \& Loss Plots](#model-4-accuracy--loss-plots)
+  - [Money Line Model](#money-line-model)
+    - [Model 1 Validation Split \& Accuracy](#model-1-validation-split--accuracy)
+    - [Model 2 Validation Split \& Accuracy](#model-2-validation-split--accuracy)
+    - [Model 3 Validation Split \& Accuracy](#model-3-validation-split--accuracy)
+    - [Model 4 Validation Split \& Accuracy](#model-4-validation-split--accuracy)
   - [Table of Contents](#table-of-contents)
   - [1. Installation](#1-installation)
   - [2. Usage](#2-usage)
@@ -145,9 +155,10 @@ Based on the validation split versus accuracy plot, it is evident that plot 1 ou
 
   * [Keras](https://keras.io/about/) - Keras is a popular deep learning framework that serves as a high-level API for TensorFlow
 
-  
+  * [Scikit-Learn](https://scikit-learn.org/stable/index.html) - Tools for data predictions and analysis
 
-  
+  * [NumPy](https://numpy.org/doc/stable/index.html) - Package for scientific computing
+
 
 
 ## 2. Usage
@@ -158,14 +169,16 @@ Based on the validation split versus accuracy plot, it is evident that plot 1 ou
       pip install pandas
       pip install jupyterlab
       pip install --upgrade tensorflow
+      pip install -U scikit-learn
+      pip install numpy
       ```
 
   After all of these are installed, please refer to the [Deployment](#6-deployment) section for instructions on how to view or edit the notebook.
 
 
 ## 3. License
-
-	MIT License
+  ```
+  MIT License
 
   Copyright (c) 2023 Keenan Heller | Olga Ortega | Audell Sabeti | Ariana Moreno | Rachel Hodson
 
@@ -186,6 +199,7 @@ Based on the validation split versus accuracy plot, it is evident that plot 1 ou
   LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
   OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
   SOFTWARE.
+  ```
 
 
 
@@ -205,7 +219,8 @@ Based on the validation split versus accuracy plot, it is evident that plot 1 ou
 
 ## 6. Deployment
   + There is currently no live deployment of this notebook on a common server, but the user has the ability to run this notebook locally on their machine via:
-    + `Jupyter Lab`: Navigate to the root directory and type "jupyter lab main.ipynb"
+    + `Jupyter Lab`: Navigate to the root directory and type "jupyter lab main.ipynb" for the Moneyline models and "jupyter lab NN_Over_Under.ipynb" for Over/Under models.
+    + `Google Colab`: 
 
 
 ## 7. Contact

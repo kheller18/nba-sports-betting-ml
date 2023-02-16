@@ -9,11 +9,11 @@ This AI system utilizes machine learning techniques to make predictions about NB
 
 
 accuracy vs loss with 10 seasons of data from 2011 to 2021 and Hidden Layers: 3
-<img src="Images\ou_nn_1_acc_loss.png" width="600" height="400">
+<img src="Images\nn_ou_m1_acc_loss.png" width="600" height="400">
 
 
 accuracy vs validation accuracy  with 10 seasons of data from 2011 to 2021 and Hidden Layers: 3
-<img src="Images\ou_nn_1_acc_val.png" width="600" height="400">
+<img src="Images\nn_ou_m1_acc_val.png" width="600" height="400">
 
 The 'accuracy vs loss' graph displays the blue line for accuracy and the orange line for loss, which are both behaving appropriately. The accuracy line is leveling out to 1, while the loss line is leveling out to 0. It is normal to observe a few spikes in the graph.
 
@@ -25,11 +25,11 @@ As you can see our model does a pretty good job at predicting who will win in th
 
 
 accuracy vs loss with 5 seasons of data from 2016-2021 Hidden Layers: 3
-<img src="Images\ou_nn_2_acc_loss.png" width="600" height="400">
+<img src="Images\nn_ou_m2_acc_loss.png" width="600" height="400">
 
 
 accuracy vs validation accuracy with 5 seasons of data from 2016-2021 Hidden Layers: 3
-<img src="Images\ou_nn_2_acc_val.png" width="600" height="400">
+<img src="Images\nn_ou_m2_acc_val.png" width="600" height="400">
 
 It's not surprising to see that the second model, which uses less data, doesn't perform as well as the first model. This is because having more data usually allows the model to learn more patterns and generalize better to new data.
 
@@ -39,11 +39,11 @@ Though the preformance isn't as good as the first model this model is still work
 
 
 accuracy vs loss with 10 seasons of data from 2011 to 2021 Hidden Layers: 4
-<img src="Images\ou_nn_3_acc_loss.png" width="600" height="400">
+<img src="Images\nn_ou_m3_acc_loss.png" width="600" height="400">
 
 
 accuracy vs validation accuracy with 10 seasons of data from 2011 to 2021 Hidden Layers: 4
-<img src="Images\ou_nn_3_acc_val.png" width="600" height="400">
+<img src="Images\nn_ou_m3_acc_val.png" width="600" height="400">
 
 The third model has a very similar out come as the first model. The first model had a loss of .0796 and an accuracy of .4771 while the third model has a loss of .0990 and an accuracy of .4787 . the accuracy and validation accuracy are acting accurate. 
 
@@ -54,12 +54,12 @@ The fact that the accuracy and validation accuracy are both high and close to ea
 Overall, it's great that the third model is showing promising results, and it may be worth further exploring its performance on new data or tweaking some of its parameters to see if it can be improved even further.
 
 accuracy vs loss with 5 seasons of data from 2016 to 2021 Hidden Layers: 4
-<img src="Images\ou_nn_4_acc_loss.png" width="600" height="400">
+<img src="Images\nn_ou_m4_acc_loss.png" width="600" height="400">
 
 
 
 accuracy vs validation accuracy with 5 seasons of data from 2016 to 2021 Hidden Layers: 4
-<img src="Images\ou_nn_4_acc_val.png" width="600" height="400">
+<img src="Images\nn_ou_m4_acc_val.png" width="600" height="400">
 
 
 It's great to hear that all your models performed well! While model 4 may not have performed as well as model 1 and model 3 in terms of loss, its loss is still quite low and may be considered acceptable for the task at hand. 

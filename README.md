@@ -19,8 +19,10 @@ This AI system utilizes machine learning techniques to make predictions about NB
 
 <img src="Images\nn_ou_m1_acc_loss.png" width="600" height="400">
 
-
 <img src="Images\nn_ou_m1_acc_val.png" width="600" height="400">
+
+### Predictions for Model 1
+<img src="Images\ou_predictions_df_1.png" width="600" height="400">
 
 The 'accuracy vs loss' graph displays the blue line for accuracy and the orange line for loss, which are both behaving appropriately. The accuracy line is leveling out to 1, while the loss line is leveling out to 0. It is normal to observe a few spikes in the graph.
 
@@ -28,7 +30,7 @@ Onto the second graph 'accuracy vs validation accuracy'. Accuracy refers to the 
 
 On the other hand, validation accuracy measures the model's performance on a dataset that the model has not seen during training. This dataset is typically used to evaluate the model's ability to generalize to new data, and it is important for determining if the model is overfitting or underfitting.
 
-As you can see our model does a pretty good job at predicting who will win in the future games. The accuracy and validation accuracy follows each other fairly close. 
+As you can see our model does a pretty good job at predicting who will win in the future games. The accuracy and validation accuracy follows each other fairly close.
 
 
 ### Model 2 Accuracy & Loss Plots
@@ -44,6 +46,9 @@ As you can see our model does a pretty good job at predicting who will win in th
 
 
 <img src="Images\nn_ou_m2_acc_val.png" width="600" height="400">
+
+### Predictions for Model 2
+<img src="Images\ou_predictions_df_2.png" width="600" height="400">
 
 It's not surprising to see that the second model, which uses less data, doesn't perform as well as the first model. This is because having more data usually allows the model to learn more patterns and generalize better to new data.
 
@@ -66,6 +71,9 @@ Though the preformance isn't as good as the first model this model is still work
 
 <img src="Images\nn_ou_m3_acc_val.png" width="600" height="400">
 
+### Predictions for Model 3
+<img src="Images\ou_predictions_df_3.png" width="600" height="400">
+
 The third model has a very similar out come as the first model. The first model had a loss of .0796 and an accuracy of .4771 while the third model has a loss of .0990 and an accuracy of .4787 . the accuracy and validation accuracy are acting accurate.
 
 It's great to hear that the third model has a similar outcome to the first model, despite having some differences in the loss and accuracy values. The first model had a loss of (.0796) and an accuracy of (.4771) while the third model has a loss of (.0990) and an accuracy of (.4787).
@@ -85,10 +93,10 @@ Overall, it's great that the third model is showing promising results, and it ma
 
 <img src="Images\nn_ou_m4_acc_loss.png" width="600" height="400">
 
-
-
 <img src="Images\nn_ou_m4_acc_val.png" width="600" height="400">
 
+### Predictions for Model 4
+<img src="Images\ou_predictions_df_4.png" width="600" height="400">
 
 It's great to hear that all your models performed well! While model 4 may not have performed as well as model 1 and model 3 in terms of loss, its loss is still quite low and may be considered acceptable for the task at hand.
 
@@ -96,19 +104,68 @@ Additionally, it's worth noting that sometimes a model with a slightly higher lo
 
 ## Money Line Model
 ### Model 1 Validation Split & Accuracy
+- 10 seasons of data from 2011 to 2021
+- Hidden Layers: 3
+- Hidden Layer Activation: LeakyReLU
+- Epochs: 80
+- Optimizer: Adam
+- Outer Layer Activation: Linear
+- Loss: Mean Squared Error (MSE)
 
-<img src="Images\Plot_Part_1.png" width="600" height="400">
+<img src="Images\nn_ml_m1_acc_loss.png" width="600" height="400">
+
+<img src="Images\nn_ml_m1_acc_val.png" width="600" height="400">
+
+### Predictions for Model 1
+<img src="Images\wm_predictions_df_1.png" width="600" height="400">
 
 ### Model 2 Validation Split & Accuracy
-<img src="Images\Plot_Part_2.png" width="600" height="400">
+- 5 seasons of data from 2016-2021
+- Hidden Layers: 3
+- Hidden Layer Activation: LeakyReLU
+- Epochs: 130
+- Optimizer: Adam
+- Outer Layer Activation: Linear
+- Loss: MSE
 
+<img src="Images\nn_ml_m2_acc_loss.png" width="600" height="400">
+
+<img src="Images\nn_ml_m2_acc_val.png" width="600" height="400">
+
+### Predictions for Model 2
+<img src="Images\wm_predictions_df_2.png" width="600" height="400">
 
 ### Model 3 Validation Split & Accuracy
-<img src="Images\Plot_Part_3.png" width="600" height="400">
+- 10 seasons of data from 2011 to 2021
+- Hidden Layers: 4
+- Hidden Layer Activation: LeakyReLU
+- Epochs: 100
+- Optimizer: Adam
+- Outer Layer Activation: Linear
+- Loss: MSE
 
+<img src="Images\nn_ml_m3_acc_loss.png" width="600" height="400">
+
+<img src="Images\nn_ml_m3_acc_val.png" width="600" height="400">
+
+### Predictions for Model 3
+<img src="Images\wm_predictions_df_3.png" width="600" height="400">
 
 ### Model 4 Validation Split & Accuracy
-<img src="Images\Plot_Part_4.png" width="600" height="400">
+- 5 seasons of data from 2016 to 2021
+- Hidden Layers: 4
+- Hidden Layer Activation: LeakyReLU
+- Epochs: 60
+- Optimizer: Adam
+- Outer Layer Activation: Linear
+- Loss: MSE
+
+<img src="Images\nn_ml_m4_acc_loss.png" width="600" height="400">
+
+<img src="Images\nn_ml_m4_acc_val.png" width="600" height="400">
+
+### Predictions for Model 4
+<img src="Images\wm_predictions_df_4.png" width="600" height="400">
 
 Based on the validation split versus accuracy plot, it is evident that plot 1 outperforms the other plots with its exceptional performance. Plot 1 demonstrates a close alignment between validation accuracy and the accuracy line. While plot 2 has some initial overfitting, it shows a good recovery. Plot 3 initially overfits, followed by a recovery, and then starts to underfit. Plot 4 also has some initial overfitting but shows a good recovery. However, overall, plot 1 emerges as the winner in this comparison.
 
@@ -120,14 +177,22 @@ Based on the validation split versus accuracy plot, it is evident that plot 1 ou
   - [Description](#description)
   - [Over/Under Model](#overunder-model)
     - [Model 1 Accuracy \& Loss Plots](#model-1-accuracy--loss-plots)
+    - [Predictions for Model 1](#predictions-for-model-1)
     - [Model 2 Accuracy \& Loss Plots](#model-2-accuracy--loss-plots)
+    - [Predictions for Model 2](#predictions-for-model-2)
     - [Model 3 Accuracy \& Loss Plots](#model-3-accuracy--loss-plots)
+    - [Predictions for Model 3](#predictions-for-model-3)
     - [Model 4 Accuracy \& Loss Plots](#model-4-accuracy--loss-plots)
+    - [Predictions for Model 4](#predictions-for-model-4)
   - [Money Line Model](#money-line-model)
     - [Model 1 Validation Split \& Accuracy](#model-1-validation-split--accuracy)
+    - [Predictions for Model 1](#predictions-for-model-1-1)
     - [Model 2 Validation Split \& Accuracy](#model-2-validation-split--accuracy)
+    - [Predictions for Model 2](#predictions-for-model-2-1)
     - [Model 3 Validation Split \& Accuracy](#model-3-validation-split--accuracy)
+    - [Predictions for Model 3](#predictions-for-model-3-1)
     - [Model 4 Validation Split \& Accuracy](#model-4-validation-split--accuracy)
+    - [Predictions for Model 4](#predictions-for-model-4-1)
   - [Table of Contents](#table-of-contents)
   - [1. Installation](#1-installation)
   - [2. Usage](#2-usage)
@@ -220,7 +285,7 @@ Based on the validation split versus accuracy plot, it is evident that plot 1 ou
 ## 6. Deployment
   + There is currently no live deployment of this notebook on a common server, but the user has the ability to run this notebook locally on their machine via:
     + `Jupyter Lab`: Navigate to the root directory and type "jupyter lab main.ipynb" for the Moneyline models and "jupyter lab NN_Over_Under.ipynb" for Over/Under models.
-    + `Google Colab`: 
+    + `Google Colab`: For Moneyline models, open "GC_NN_Win_Margin.ipynb" and click "Open in Colab". For Over/Under models, open "GC_NN_Over_Under.ipynb" and click "Open in Colab".
 
 
 ## 7. Contact

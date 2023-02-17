@@ -283,7 +283,7 @@ Based on the validation split versus accuracy plot, it is evident that plot 1 ou
 
 ## 6. Deployment
   + There is currently no live deployment of this notebook on a common server, but the user has the ability to run this notebook locally on their machine via:
-    + `Jupyter Lab`: Navigate to the root directory and type "jupyter lab main.ipynb" for the Moneyline models and "jupyter lab NN_Over_Under.ipynb" for Over/Under models.
+    + `Jupyter Lab`: Navigate to the root directory and type "jupyter lab NN_Win_Margin.ipynb" for the Moneyline models and "jupyter lab NN_Over_Under.ipynb" for Over/Under models.
     + `Google Colab`: For Moneyline models, open "GC_NN_Win_Margin.ipynb" and click "Open in Colab". For Over/Under models, open "GC_NN_Over_Under.ipynb" and click "Open in Colab".
 
 

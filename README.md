@@ -98,8 +98,7 @@ Overall, it's great that the third model is showing promising results, and it ma
 ### Predictions for Model 4
 <img src="Images\ou_predictions_df_4.png" width="600" height="400">
 
-It's great to hear that all your models performed well! While model 4 may not have performed as well as model 1 and model 3 in terms of loss, its loss is still quite low and may be considered acceptable for the task at hand.
-
+While model 4 may not have performed as well as model 1 and model 3 in terms of loss, its loss is still quite low and may be considered acceptable for the task at hand.
 Additionally, it's worth noting that sometimes a model with a slightly higher loss may still perform better on unseen data, as it may have learned to generalize better.
 
 ## Money Line Model

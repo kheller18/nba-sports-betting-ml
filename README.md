@@ -14,7 +14,7 @@ This AI system utilizes machine learning techniques to make predictions about NB
 * Home Team ["Home_Team"]
     * The team who is hosting the basketball game at their home stadium.
 * Away Team ["Away_Team"]
-    * The team who is traveling to the home team's stadium to play the game. 
+    * The team who is traveling to the home team's stadium to play the game.
 * Game Total Points ["Game_Total_Points"]
     * The total amount of points scored in a game: Home team's total points PLUS away team's total points.
 * Over/Under ["Over_Under"]
@@ -27,13 +27,15 @@ This AI system utilizes machine learning techniques to make predictions about NB
 * Win Margin ["Win_Margin"]
     * The amount of points that the home team won or lost the game by (not a prediction, this is the actual true data taken after the game ends).
     * A positive number means the home team won by that many points and a negative number means the home team lost by that many points.
-    
+
 ---
-    
+
 ## Table of Contents
 
 - [NBA Sports Betting ML](#nba-sports-betting-ml)
   - [Description](#description)
+  - [Dictionary of Terms Used in this Repository](#dictionary-of-terms-used-in-this-repository)
+  - [Table of Contents](#table-of-contents)
   - [Over/Under Model](#overunder-model)
     - [Model 1 Accuracy \& Loss Plots](#model-1-accuracy--loss-plots)
     - [Predictions for Model 1](#predictions-for-model-1)
@@ -43,16 +45,15 @@ This AI system utilizes machine learning techniques to make predictions about NB
     - [Predictions for Model 3](#predictions-for-model-3)
     - [Model 4 Accuracy \& Loss Plots](#model-4-accuracy--loss-plots)
     - [Predictions for Model 4](#predictions-for-model-4)
-  - [Moneyline Model](#money-line-model)
-    - [Model 1 Accuracy \& Loss Plots](#model-1--accuracy--loss-plots)
+  - [Moneyline Model](#moneyline-model)
+    - [Model 1 Accuracy \& Loss Plots](#model-1-accuracy--loss-plots-1)
     - [Predictions for Model 1](#predictions-for-model-1-1)
-    - [Model 2 Accuracy \& Loss Plots](#model-2-accuracy--loss-plots)
+    - [Model 2 Accuracy \& Loss Plots](#model-2-accuracy--loss-plots-1)
     - [Predictions for Model 2](#predictions-for-model-2-1)
-    - [Model 3 Accuracy \& Loss Plots](#model-3-accuracy--loss-plots)
+    - [Model 3 Accuracy \& Loss Plots](#model-3-accuracy--loss-plots-1)
     - [Predictions for Model 3](#predictions-for-model-3-1)
-    - [Model 4 Accuracy \& Loss Plots](#model-4-accuracy--loss-plots)
+    - [Model 4 Accuracy \& Loss Plots](#model-4-accuracy--loss-plots-1)
     - [Predictions for Model 4](#predictions-for-model-4-1)
-  - [Table of Contents](#table-of-contents)
   - [1. Installation](#1-installation)
   - [2. Usage](#2-usage)
   - [3. License](#3-license)
@@ -237,7 +238,7 @@ Based on the validation split versus accuracy plot, it is evident that plot 1 ou
 
   * [Jupyter Lab](https://jupyterlab.readthedocs.io/en/stable/) - *version 3.4.4* - Used to create and share documents that contain live code, equations, visualizations and narrative text.
 
-  * [pandas](https://pandas.pydata.org/docs/) - For the analysis of crime data.
+  * [pandas](https://pandas.pydata.org/docs/) - For the analysis of NBA data.
 
   * [pathlib](https://docs.python.org/3/library/pathlib.html) - *version 1.0.1* - This was used to locate through the directory or file path.
 
@@ -292,7 +293,7 @@ Based on the validation split versus accuracy plot, it is evident that plot 1 ou
   SOFTWARE.
   ```
 ---
-  
+
 ## 4. Contributing
 
   + [Keenan Heller](https://github.com/kheller18)
@@ -300,7 +301,7 @@ Based on the validation split versus accuracy plot, it is evident that plot 1 ou
   + [Ariana Moreno](https://github.com/arianamoreno13)
   + [Olga Ortega](https://github.com/olgaortega5)
   + [Audell Sabeti](https://github.com/asabeti)
-  
+
 ---
 
 ## 5. Tests
